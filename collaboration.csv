@@ -1,4 +1,4 @@
-first_name,last_name,full_name,department,university,country,leader,team_id,position,api_name,gender,probability,count
+first_name,last_name,full_name,department,organization,country,leader,team_id,position,api_name,gender,probability,count
 Abd Al Aziz A,Abu Saleh,"Abd Al Aziz A, Abu Saleh",Chem,Mem Univ,Canada,"Raymond A, Poirier",1,first,Abd,None,None,0
 Ibrahim E,Awad,"Ibrahim E, Awad",Chem,Mem Univ,Canada,"Raymond A, Poirier",1,other,Ibrahim,None,None,0
 Raymond A,Poirier,"Raymond A, Poirier",Chem,Mem Univ,Canada,"Raymond A, Poirier",1,leader,Raymond,None,None,0
