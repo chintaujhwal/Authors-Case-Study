@@ -1,0 +1,2927 @@
+full_name,publication_year,team_id,gender
+"Victor, Korotkikh",2009,1,male
+"Galina, Korotkikh",2009,1,male
+"Jiri, Kroc",2007,2,unknown
+"Yurij, Holovatch",2017,3,female
+"Ralph, Kenna",2017,3,unknown
+"Stefan, Thurner",2017,3,male
+"Amandine, Orsini",2020,4,male
+"Philippe, Le Prestre",2020,4,male
+"Jean Frederic, Morin",2020,4,male
+"Peter M, Haas",2020,4,unknown
+"Malte, Brosig",2020,4,unknown
+"Philipp, Pattberg",2020,4,unknown
+"Oscar, Widerberg",2020,4,female
+"Laura, Gomez Mera",2020,4,male
+"Neil E, Harrison",2020,4,male
+"Robert, Geyer",2020,4,female
+"David, Chandler",2020,4,male
+"LH, Chai",2004,5,female
+"DS, Wen",2004,5,unknown
+"DJ, Svyantek",2000,6,male
+"LL, Brown",2000,6,male
+"A, Chamseddine",2012,7,female
+"H, Noura",2012,7,female
+"Ni, Li",2018,8,male
+"Yuhong, Li",2018,8,female
+"Guanghong, Gong",2018,8,female
+"Erik, Van der Straeten",2011,9,female
+"Christian, Beck",2011,9,male
+"Vernon, Ireland",2016,10,unknown
+"Alex, Gorod",2016,10,unknown
+"Stavros K, Stavroglou",2020,11,male
+"Athanasios A, Pantelous",2020,11,male
+"H Eugene, Stanley",2020,11,female
+"Konstantin M, Zuev",2020,11,male
+"Isaias, Badillo Pina",2010,12,male
+"J, Swiatek",2004,13,male
+"Elise, Filotas",2014,14,unknown
+"Christian, Messier",2014,14,male
+"Lael, Parrott",2014,14,unknown
+"Philip J, Burton",2014,14,male
+"Robin L, Chazdon",2014,14,male
+"K David, Coates",2014,14,unknown
+"Lluis, Coll",2014,14,male
+"Sybille, Haeussler",2014,14,male
+"Kathy, Martin",2014,14,male
+"Suzanne W, Simard",2014,14,unknown
+"Susanna, Nocentini",2014,14,male
+"Klaus J, Puettmann",2014,14,unknown
+"Francis E, Putz",2014,14,unknown
+"Sarah A, Sheard",2009,15,unknown
+"Ali, Mostashari",2009,15,male
+"Melissa, Gardenghi",2011,16,male
+"Margaret M, Wiecek",2011,16,male
+"Trinidad, Gomez",2011,16,male
+"Francisca, Miguel",2011,16,male
+"Susan A, Yoon",2017,17,male
+"Emma, Anderson",2017,17,male
+"Jessica, Koehler Yom",2017,17,male
+"Chad, Evans",2017,17,male
+"Miyoung, Park",2017,17,unknown
+"Josh, Sheldon",2017,17,male
+"Ilana, Schoenfeld",2017,17,unknown
+"Daniel, Wendel",2017,17,male
+"Hal, Scheintaub",2017,17,male
+"Eric, Klopfer",2017,17,unknown
+"SK, Ethiraj",2004,18,male
+"D, Levinthal",2004,18,male
+"Tarcisio Abreu, Saurin",2013,19,male
+"John, Rooke",2013,19,male
+"Lauri, Koskela",2013,19,male
+"Yan Zexian, Yan Zexian",2007,20,male
+"M, Jamshidi",2001,21,unknown
+"CD, Stylios",2004,22,male
+"PP, Groumpos",2004,22,female
+"Anna, Carbone",2016,23,male
+"Meiko, Jensen",2016,23,unknown
+"Aki Hiro, Sato",2016,23,male
+"Axel, Duerrbaum",2012,24,female
+"Andreas, Kroll",2012,24,male
+"Hanns Jakob, Sommer",2012,24,unknown
+"Tobias, Dietz",2020,25,male
+"Stefan, Ruzika",2020,25,unknown
+"Luca E, Schaefer",2020,25,male
+"Kathrin, Klamroth",2020,25,male
+"Konstantin, Kraus",2020,25,unknown
+"Britta, Schulze",2020,25,male
+"Michael, Stiglmayr",2020,25,unknown
+"Margaret M, Wiecek",2020,25,male
+"Carlos, Cotta",2017,26,male
+"Robert, Schaefer",2017,26,male
+"Lori Baugh, Littlejohns",2019,27,unknown
+"Andrew, Wilson",2019,27,male
+"TG, Buchman",2001,28,unknown
+"JP, Cobb",2001,28,male
+"AS, Lapedes",2001,28,male
+"TB, Kepler",2001,28,unknown
+"Rika, Preiser",0,29,male
+"Leo, Torres",2021,30,male
+"Tina, Eliassi Rad",2021,30,male
+"Ann S, Blevins",2021,30,male
+"Danielle, Bassett",2021,30,male
+"Michael J, Jacobson",2020,31,male
+"Lance W, Robinson",2009,32,male
+"VVS, SARMA",1994,33,male
+"Paulo V R, Carvalho",2009,34,male
+"Isaac J L, dos Santos",2009,34,male
+"Mario C R, Vidal",2009,34,male
+"Marcello S, Santos",2009,34,male
+"K, Wiesner",2019,35,unknown
+"D, Garcia",2019,35,male
+"A, Birdi",2019,35,male
+"T, Eliassi Rad",2019,35,unknown
+"H, Farrell",2019,35,male
+"S, Lewandowsky",2019,35,male
+"P, Palacios",2019,35,male
+"D, Ross",2019,35,male
+"D, Sornette",2019,35,male
+"K, Thebault",2019,35,male
+"RB, Norgaard",2005,36,male
+"P, Baer",2005,36,unknown
+"Mary J, Simpson",2010,37,unknown
+"Joseph J, Simpson",2010,37,female
+"Liu, Ping",2013,38,male
+"J, Li",2005,39,male
+"W, Ge",2005,39,male
+"J, Zhang",2005,39,female
+"M, Kwauk",2005,39,male
+"C, Landauer",2001,40,unknown
+"KL, Bellman",2001,40,unknown
+"WE, Spangler",2001,41,female
+"JM, Peters",2001,41,male
+"Fernando, Baquero",2012,42,male
+"Andres, Moya",2012,42,male
+"Yoshiyasu, Tamura",2013,43,female
+"Eleftheria, Vasileiadou",2012,44,female
+"Thomas E, Gorochowski",2012,45,unknown
+"Mario, Di Bernardo",2012,45,male
+"Claire S, Grierson",2012,45,unknown
+"B, Yan",2004,46,male
+"QY, Xie",2004,46,male
+"F Gregory, Hayden",2018,47,male
+"Afshin, Jamshidi",2018,48,male
+"Daoud, Ait kadi",2018,48,female
+"Mohamed Larbi, Rebaiaia",2018,48,male
+"Angel, Ruiz",2018,48,female
+"ME, Gettings",2004,49,male
+"MW, Bultman",2004,49,unknown
+"FS, Fisher",2004,49,unknown
+"Ping, Ao",2007,50,female
+"Chulan, Kwon",2007,50,male
+"Hong, Qian",2007,50,male
+"Shengli, Dai",2018,51,male
+"Hongyan, Xue",2018,51,male
+"Wei, Zhang",2018,51,male
+"Xin, Zhang",2018,51,male
+"Yuan, Jiang",2018,51,male
+"Martin, Sjostedt",2019,52,male
+"Tim, Hoverd",2015,53,male
+"Susan, Stepney",2015,53,male
+"Matt, Kasman",2017,54,male
+"Brynle, Owen",2017,54,unknown
+"Joshua, Hayward",2017,54,unknown
+"Jiming, Liu",2012,55,female
+"Yu Wang, Chen",2012,55,male
+"E, Klopfer",2003,56,male
+"Melanie, Mitchell",2006,57,unknown
+"Craig, Piers",2013,58,female
+"R, FIVAZ",1994,59,male
+"John, Vandermeer",2019,60,male
+"Gordon, Fitch",2019,60,male
+"Zachary, Hajian Forooshani",2019,60,male
+"Chatura, Vaiyda",2019,60,male
+"Inge, Armbrecht",2019,60,male
+"Aldo, De la Mora",2019,60,female
+"Katherine K, Ennis",2019,60,male
+"Esteli, Jimenez Soto",2019,60,male
+"Stacy M, Philpott",2019,60,unknown
+"David J, Gonthier",2019,60,male
+"Hsun Yi, Hsieh",2019,60,male
+"Aaron, Iverson",2019,60,male
+"Douglas, Jackson",2019,60,male
+"Shalene, Jha",2019,60,male
+"Gustavo, Lopez Bautista",2019,60,male
+"Ashley, Larsen",2019,60,male
+"Kevin, Li",2019,60,male
+"Heidi, Liere",2019,60,unknown
+"Andrew, Macdonald",2019,60,male
+"Kaitlyn A, Mathis",2019,60,male
+"Ivan, Monagan",2019,60,male
+"Jonathan R, Morris",2019,60,unknown
+"Iris Saraeny, Rivera Salinas",2019,60,male
+"Kimberly, Williams Guillen",2019,60,male
+"Ivette, Perfecto",2019,60,male
+"Theresa, Ong",2019,60,male
+"Gabriella L, Pardee",2019,60,male
+"Senay, Yitbarek",2019,60,female
+"Shinsuke, Uno",2019,60,female
+"Ash, Zemenick",2019,60,male
+"Sigal, Samon",2020,61,male
+"Sharona T, Levy",2020,61,male
+"Daniel, Solow",2008,62,female
+"Joseph, Szmerekovsky",2008,62,unknown
+"Chi Hyon, Lee",2016,63,female
+"Manuela N, Hoehn Weiss",2016,63,male
+"Samina, Karim",2016,63,unknown
+"S, Bandini",2001,64,male
+"G, Mauri",2001,64,unknown
+"R, Serra",2001,64,unknown
+"Yingying, Su",2012,65,unknown
+"Taifu, Li",2012,65,male
+"Debiao, Wang",2012,65,male
+"Xinghua, Liu",2012,65,male
+"P H, Mason",2015,66,female
+"J F D, Dominguez",2015,66,male
+"B, Winter",2015,66,female
+"A, Grignolio",2015,66,male
+"Serhad, Sarica",2019,67,unknown
+"Jianxi, Luo",2019,67,male
+"Marieke, Wichers",2019,68,male
+"Marieke J, Schreuder",2019,68,male
+"Robin N, Groen",2019,68,male
+"Rutger, Goekoop",2019,68,male
+"G, Ceschel",2005,69,male
+"P, Maffei",2005,69,male
+"MC, Dragani",2005,69,female
+"MM, Gentile",2005,69,male
+"C, Di Palma",2005,69,male
+"ML, Morelli",2005,69,male
+"A, Fini",2005,69,unknown
+"Marilena, Nicolae",2017,70,male
+"N, Elfelly",2012,71,male
+"J Y, Dieulot",2012,71,male
+"M, Benrejeb",2012,71,male
+"P, Borne",2012,71,male
+"Shamsnaz Virani, Bhada",2021,72,male
+"Rahul, Krishnan",2021,72,male
+"R, FIVAZ",1993,73,male
+"LAN, Amaral",2004,74,male
+"JM, Ottino",2004,74,male
+"Bangxin, Jiang",2021,75,male
+"Jianquan, Lu",2021,75,male
+"Bowen, Li",2021,75,male
+"Shi Chun, Shi Chun",2004,76,male
+"Guo Zhong yang, Guo Zhong yang",2004,76,male
+"Philip, James",2004,76,male
+"M, Lachowicz",2003,77,male
+"R, I, Sujith",2021,78,male
+"Vishnu R, Unni",2021,78,male
+"Adauto Lucas, Silva",2018,79,female
+"Fabio Mueller, Guerrini",2018,79,male
+"Qing, Cai",2020,80,male
+"Sameer, Alam",2020,80,male
+"Jiming, Liu",2020,80,male
+"Rick, Quax",2011,81,male
+"Peter M A, Sloot",2011,81,unknown
+"David A, Bader",2011,81,male
+"M, BARRERE",1995,82,unknown
+"Xiaofeng, Liu",2019,83,male
+"Guofu, Liao",2019,83,male
+"Liyuan, Zou",2019,83,unknown
+"Yan, Zheng",2019,83,male
+"Xiaohai, Yang",2019,83,unknown
+"Qing, Wang",2019,83,male
+"Xiuhua, Geng",2019,83,unknown
+"Shaoyuan, Li",2019,83,male
+"Yaqin, Liu",2019,83,male
+"Kemin, Wang",2019,83,male
+"Erik M, Bollt",2014,84,unknown
+"Jie, Sun",2014,84,unknown
+"Marcos E, Gaudiano",2015,85,female
+"Christopher A, Rates",2016,86,male
+"Bridget K, Mulvey",2016,86,female
+"David F, Feldon",2016,86,male
+"R C, Martins",2008,87,male
+"A A, Vicente",2008,87,unknown
+"J A, Teixeira",2008,87,female
+"V V, Lopes",2008,87,male
+"Erna, Ruijer",0,88,unknown
+"Albert, Meijer",0,88,male
+"Justien, Dingelstad",0,88,unknown
+"Dmitri V, Alexandrov",2021,89,male
+"Andrey Yu, Zubarev",2021,89,male
+"Demetris P K, Ghikas",2018,90,female
+"Fotios D, Oikonomou",2018,90,female
+"P S, Koutsourelakis",2008,91,male
+"A, Straton",2006,92,male
+"Jon, Crowcroft",2010,93,male
+"Susan A, Yoon",2018,94,male
+"Sao Ee, Goh",2018,94,female
+"Miyoung, Park",2018,94,unknown
+"Charalampos, Sergiou",2020,95,male
+"Pavlos, Antoniou",2020,95,unknown
+"Andreas, Pitsillides",2020,95,male
+"Marios, Lestas",2020,95,unknown
+"Christos, Liaskos",2020,95,unknown
+"Moira, Zellner",2015,96,male
+"Scott, Campbell",2015,96,male
+"Oran R, Young",2017,97,male
+"Eleonora, Barelli",2018,98,female
+"Giulia, Tasquier",2018,98,male
+"Olivia, Levrini",2018,98,unknown
+"Laura, Branchetti",2018,98,male
+"Luca, Albertazzi",2018,98,male
+"Patrick J, Fowler",2019,99,male
+"Peter S, Hovmand",2019,99,male
+"Katherine E, Marcal",2019,99,female
+"Sanmay, Das",2019,99,male
+"AJE, Seely",2004,100,male
+"PT, Macklem",2004,100,female
+"Michela, Milano",2014,101,male
+"Michele, Lombardi",2014,101,male
+"Erwan, Le Martelot",2011,102,female
+"Peter J, Bentley",2011,102,male
+"Hiroki, Sayama",2013,103,male
+"Irene, Pestov",2013,103,male
+"Jeffrey, Schmidt",2013,103,unknown
+"Benjamin James, Bush",2013,103,male
+"Chun, Wong",2013,103,male
+"Junichi, Yamanoi",2013,103,female
+"Thilo, Gross",2013,103,male
+"BT, Milne",1998,104,female
+"Jiqiang, Wang",2020,105,male
+"Luis H, Favela",2018,106,unknown
+"Mary Jean, Amon",2018,106,unknown
+"Marieke M J W, van Rooij",2018,106,female
+"Kay, Junge",0,107,male
+"Kirill, Postoutenko",0,107,female
+"Yorghos, Apostolopoulos",2018,108,male
+"Michael K, Lemke",2018,108,male
+"Adam E, Barry",2018,108,male
+"Kristen Hassmiller, Lich",2018,108,male
+"Cameron A, MacKenzie",2020,109,unknown
+"Kristy A, Bryden",2020,109,unknown
+"Anna A, Prisacari",2020,109,unknown
+"Adele M, Hayes",2020,110,unknown
+"Leigh A, Andrews",2020,110,unknown
+"Michael J, Jacobson",2011,111,unknown
+"Manu, Kapur",2011,111,male
+"Hyo Jeong, So",2011,111,male
+"June, Lee",2011,111,male
+"Miriam, Lemmer",2020,112,female
+"Benita, Erasmus",2020,112,male
+"Jeanne, Kriek",2020,112,unknown
+"RM, Yulmetyev",2005,113,unknown
+"AV, Mokshin",2005,113,male
+"P, Hanggi",2005,113,male
+"Li, An",2021,114,male
+"Volker, Grimm",2021,114,male
+"Abigail, Sullivan",2021,114,male
+"B L, II, Turner",2021,114,unknown
+"Nicolas, Malleson",2021,114,male
+"Alison, Heppenstall",2021,114,unknown
+"Christian, Vincenot",2021,114,male
+"Derek, Robinson",2021,114,unknown
+"Xinyue, Ye",2021,114,unknown
+"Jianguo, Liu",2021,114,male
+"Emilie, Lindkvist",2021,114,male
+"Wenwu, Tang",2021,114,female
+"Veysi, Ozturk",2009,115,male
+"Ramakrishnan, Raman",2019,116,male
+"Meenakshi, D'Souza",2019,116,male
+"V, Gontis",2004,117,male
+"B, Kaulakys",2004,117,male
+"M, Alaburda",2004,117,female
+"J, Ruseckas",2004,117,unknown
+"Demetris P K, Ghikas",2018,118,unknown
+"Fotios D, Oikonomou",2018,118,unknown
+"Brent A, Langellier",2019,119,unknown
+"Jonathan, Purtle",2019,119,unknown
+"Katherine L, Nelson",2019,119,unknown
+"Yong, Yang",2019,119,unknown
+"Ivana, Stankov",2019,119,male
+"Ana V Diez, Roux",2019,119,unknown
+"J, Bateira",2002,120,male
+"LV, Ferreira",2002,120,male
+"Andreas A, Malikopoulos",2016,121,male
+"GE, McClearn",1999,122,male
+"SM, Hofer",1999,122,male
+"F, Aznar",2005,123,unknown
+"M, Pujol",2005,123,unknown
+"R, Rizo",2005,123,male
+"M, Klein",2003,124,male
+"H, Sayama",2003,124,female
+"P, Faratin",2003,124,unknown
+"Y, Bar Yam",2003,124,female
+"Michael J, Jacobson",2019,125,male
+"Stefania, Bandini",2008,126,male
+"Leonardo, Vanneschi",2008,126,male
+"Alessandro Bahgat, Shehata",2008,126,unknown
+"Andrew, Wuensche",2008,126,male
+"Sara, Kaviani",2021,127,unknown
+"Insoo, Sohn",2021,127,unknown
+"S B, Nicholson",2013,128,male
+"Eun jin, Kim",2013,128,male
+"L S, Schulman",2013,128,male
+"Zoltan, Eisler",2008,129,male
+"Janos, Kertesz",2008,129,unknown
+"Imre, Bartos",2008,129,unknown
+"Laura, Sani",2021,130,unknown
+"Michele, Amoretti",2021,130,male
+"Stefano, Cagnoni",2021,130,male
+"Monica, Mordonini",2021,130,male
+"Riccardo, Pecori",2021,130,unknown
+"Yona, Dureau",2008,131,unknown
+"Toshiya, Kaihara",2008,132,unknown
+"Baoping, Cai",2016,133,male
+"Hanlin, Liu",2016,133,male
+"Min, Xie",2016,133,male
+"Paula, Savioja",2014,134,male
+"Marja, Liinasuo",2014,134,male
+"Hanna, Koskinen",2014,134,male
+"Zoe, Szajnfarber",2018,135,unknown
+"Ademir, Vrolijk",2018,135,female
+"Peter, Nagy",2014,136,unknown
+"Peter, Tasnadi",2014,136,female
+"Roman, Riser",2020,137,male
+"Vladimir, Al Osipov",2020,137,male
+"Eugene, Kanzieper",2020,137,male
+"Maximilian, Brauers",2014,138,male
+"Matthias, Thomas",2014,138,male
+"Joachim, Zietz",2014,138,male
+"Christopher, Burton",2018,139,male
+"Alison, Elliott",2018,139,male
+"Amanda, Cochran",2018,139,unknown
+"Tom, Love",2018,139,unknown
+"Jiri, Kroc",2019,140,male
+"Francisco, Jimenez Morales",2019,140,male
+"Maria Carmen, Lemos",2019,140,male
+"J L, Guisado",2019,140,unknown
+"Jakub, Tkac",2019,140,male
+"RM, Yulmetyev",2002,141,male
+"FM, Gafarov",2002,141,male
+"DG, Yulmetyeva",2002,141,male
+"NA, Emeljanova",2002,141,male
+"Shalabh, Gupta",2009,142,female
+"Asok, Ray",2009,142,female
+"Simone, Spolaor",2020,143,male
+"Marco S, Nobile",2020,143,female
+"Giancarlo, Mauri",2020,143,male
+"Daniela, Besozzi",2020,143,male
+"Paolo, Cazzaniga",2020,143,male
+"Samuel, Greiff",2015,144,unknown
+"Matthias, Stadler",2015,144,male
+"Sascha, Wuestenberg",2015,144,male
+"Andreas, Fischer",2015,144,male
+"Jaroslaw, Kwapien",2012,145,female
+"Stanislaw, Drozdz",2012,145,unknown
+"J A, Kleboth",2016,146,male
+"P A, Luning",2016,146,unknown
+"V, Fogliano",2016,146,unknown
+"Marah, Moore",2019,147,unknown
+"Beverly, Parsons",2019,147,male
+"Patricia, Jessup",2019,147,unknown
+"Jeremy, Boes",2017,148,male
+"Frederic, Migeon",2017,148,male
+"Philip, Haynes",2018,149,unknown
+"Gaston, Becerra",2020,150,unknown
+"Susan A, Yoon",2015,151,female
+"Jessica, Koehler Yom",2015,151,male
+"Emma, Anderson",2015,151,male
+"Joyce, Lin",2015,151,unknown
+"Eric, Klopfer",2015,151,male
+"Gui Bao, Wang",2009,152,female
+"Hong Zhong, Huang",2009,152,male
+"Yu, Liu",2009,152,male
+"Xiaoling, Zhang",2009,152,unknown
+"Zhonglai, Wang",2009,152,male
+"Jeffery T, Walker",2007,153,male
+"Nicola, Labanca",2020,154,male
+"Angela Guimaraes, Pereira",2020,154,male
+"Matt, Watson",2020,154,male
+"Kristian, Krieger",2020,154,female
+"Dario, Padovan",2020,154,female
+"Laura, Watts",2020,154,male
+"Mithra, Moezzi",2020,154,male
+"Gregoire, Wallenborn",2020,154,male
+"Rebecca, Wright",2020,154,male
+"Erik, Laes",2020,154,female
+"Brian D, Fath",2020,154,male
+"Franco, Ruzzenenti",2020,154,male
+"Tine, De Moor",2020,154,male
+"Thomas, Bauwens",2020,154,male
+"Lyla, Mehta",2020,154,male
+"A Brad, Murray",2014,155,unknown
+"Evan B, Goldstein",2014,155,unknown
+"Giovanni, Coco",2014,155,male
+"Domingues, Maria S Q",2017,156,male
+"Diogo Miguel, Tato",2017,156,male
+"Baptista, Adelina L F",2017,156,male
+"Xavier, Desforges",2017,157,male
+"Bernard, Archimede",2017,157,unknown
+"Mickael, Dievart",2017,157,male
+"V I, Yukalov",2014,158,unknown
+"D, Sornette",2014,158,male
+"Julie E, Reed",2018,159,unknown
+"Cathy, Howe",2018,159,male
+"Cathal, Doyle",2018,159,male
+"Derek, Bell",2018,159,male
+"Tina A, Grotzer",2017,160,unknown
+"S Lynneth, Solis",2017,160,male
+"M Shane, Tutwiler",2017,160,unknown
+"Megan Powell, Cuzzolino",2017,160,male
+"Antoinette, Tordesillas",2018,161,male
+"Zongzheng, Zhou",2018,161,unknown
+"Robin, Batterham",2018,161,female
+"Suzanne W, Simard",2009,162,male
+"Alexander, Shiroky",2021,163,female
+"Andrey, Kalashnikov",2021,163,male
+"Paul, Ormerod",2006,164,female
+"Rich, Colbaugh",2006,164,male
+"Elaine Alves, de Carvalho",2021,165,unknown
+"Jose Orlando, Gomes",2021,165,unknown
+"Monica Ferreira, da Silva",2021,165,male
+"Paulo Victor Rodrigues, de Carvalho",2021,165,male
+"Alessandro, Jatoba",2021,165,unknown
+"Imran, Mahmood",2019,166,female
+"Tameen, Kausar",2019,166,male
+"Asad Waqar, Malik",2019,166,male
+"Naveed, Riaz",2019,166,male
+"Hessam S, Sarjoughian",2019,166,male
+"Bernard P, Ricca",2020,167,male
+"Nicole, Bowers",2020,167,male
+"Michelle E, Jordan",2020,167,male
+"Janice D, Gobert",2015,168,male
+"Yoon Jeon, Kim",2015,168,unknown
+"Michael A, Sao Pedro",2015,168,male
+"Michael, Kennedy",2015,168,male
+"Cameron G, Betts",2015,168,male
+"Joshua, Danish",2017,169,male
+"Asmalina, Saleh",2017,169,male
+"Alejandro, Andrade",2017,169,male
+"Branden, Bryan",2017,169,unknown
+"Zhimin, Zhang",2018,170,male
+"Pan, Ma",2018,170,male
+"Hongmei, Lu",2018,170,male
+"Hongdong, Li",2018,170,female
+"Yonghuan, Yun",2018,170,male
+"Lunzhao, Yi",2018,170,unknown
+"Dabing, Ren",2018,170,male
+"Liangxiao, Zhang",2018,170,unknown
+"Jun, Yan",2018,170,unknown
+"Naiping, Dong",2018,170,male
+"Baichuan, Deng",2018,170,female
+"Selamawit, Woldeamlak",2016,171,unknown
+"Davor, Svetinovic",2016,171,male
+"Ali, Diabat",2016,171,male
+"Eugenio, Azpeitia",2012,172,male
+"Elena R, Alvarez Buylla",2012,172,unknown
+"Gwen C, Marchand",2020,173,male
+"Jonathan C, Hilpert",2020,173,male
+"Jieling, Liu",2021,174,male
+"Franz W, Gatzweiler",2021,174,female
+"Manasi, Kumar",2021,174,male
+"Sergey, Samoilenko",2008,175,female
+"Fatma, Tangour",2008,176,female
+"Pierre, Borne",2008,176,female
+"Glen, Poupore",2013,177,male
+"HQ, Cao",1999,178,unknown
+"JX, Yu",1999,178,female
+"LH, Kang",1999,178,male
+"YP, Chen",1999,178,male
+"YY, Chen",1999,178,male
+"Vinod K, Valsalam",2007,179,male
+"James A, Bednar",2007,179,unknown
+"Risto, Miikkulainen",2007,179,unknown
+"Yalin, Wang",2019,180,male
+"Fangxiang, Hu",2019,180,female
+"Yue, Cao",2019,180,unknown
+"Xiaofeng, Yuan",2019,180,male
+"Chunhua, Yang",2019,180,male
+"Marcantonio, Catelani",2016,181,male
+"Lorenzo, Ciani",2016,181,male
+"Matteo, Venzi",2016,181,female
+"Lael, Parrott",2016,182,unknown
+"Nigel, Quinn",2016,182,unknown
+"BA, Berg",2002,183,male
+"F, Brouers",2006,184,unknown
+"O, Sotolongo Costa",2006,184,male
+"Haoxiang, Wang",2021,185,male
+"Chao, Liu",2021,185,male
+"Dongxiang, Jiang",2021,185,male
+"Zhanhong, Jiang",2021,185,male
+"Errol, Zalmijn",2021,186,male
+"Tom, Heskes",2021,186,unknown
+"Tom, Claassen",2021,186,male
+"Rodrigo, Castro",2015,187,male
+"Pablo, Jacovkis",2015,187,male
+"Li Yan, Li Yan",2017,188,unknown
+"Mu Yifen, Mu Yifen",2017,188,female
+"Yuan Shuo, Yuan Shuo",2017,188,unknown
+"Guo Lei, Guo Lei",2017,188,male
+"Francesco, Moscato",2012,189,male
+"Valeria, Vittorini",2012,189,male
+"Flora, Amato",2012,189,male
+"Antonino, Mazzeo",2012,189,male
+"Nicola, Mazzocca",2012,189,male
+"Julie E, Reed",2019,190,unknown
+"Stuart, Green",2019,190,male
+"Cathy, Howe",2019,190,male
+"Travis R, Moore",2021,191,male
+"Elizabeth N, Foster",2021,191,male
+"Christina, Mair",2021,191,male
+"Jessica G, Burke",2021,191,male
+"Robert W S, Coulter",2021,191,male
+"Lisa Hanna, Broska",2020,192,male
+"Stefan, Voegele",2020,192,male
+"Witold Roger, Poganietz",2020,192,male
+"D A, Mitchell",2020,193,unknown
+"A, Sebald",2020,193,male
+"L, Tomasello",2020,193,male
+"Davide, Crivelli",2017,194,unknown
+"Michela, Balconi",2017,194,male
+"Julian, Salomon",2021,195,male
+"Niklas, Winnewisser",2021,195,male
+"Pengfei, Wei",2021,195,male
+"Matteo, Broggi",2021,195,male
+"Michael, Beer",2021,195,male
+"Abdullah, Secgin",2019,196,male
+"Murat, Kara",2019,196,unknown
+"Altay, Ozankan",2019,196,unknown
+"Elizabeth, McGill",2021,197,female
+"Michael, McGrath",2021,197,male
+"Chiara, Rinaldi",2021,197,male
+"Mark, Petticrew",2021,197,male
+"Dalya, Marks",2021,197,female
+"Matt, Egan",2021,197,male
+"Siyao, Liu",2021,198,unknown
+"Zhiming, Wang",2021,198,unknown
+"Yuqing, Chen",2021,198,female
+"Tongcheng, Cao",2021,198,male
+"Guohua, Zhao",2021,198,male
+"Boris, Golden",2012,199,male
+"Daniel, Krob",2012,199,female
+"Marc, Aiguier",2012,199,female
+"Avi, Ma'ayan",2017,200,unknown
+"Paolo, Arena",2021,201,male
+"Maide, Bucolo",2021,201,unknown
+"Arturo, Buscarino",2021,201,male
+"Luigi, Fortuna",2021,201,male
+"Mattia, Frasca",2021,201,male
+"Xiao Jian, Yi",2019,202,male
+"Hui Na, Mu",2019,202,female
+"Peng, Hou",2019,202,male
+"Jian, Shi",2019,202,female
+"Yue Feng, Chen",2019,202,male
+"Kenneth A, Loparo",2010,203,unknown
+"Frank J, Jacono",2010,203,unknown
+"Thomas E, Dick",2010,203,female
+"Christopher G, Wilson",2010,203,male
+"Michael A, De Georgia",2010,203,male
+"Mary, Koithan",2012,204,male
+"Iris R, Bell",2012,204,male
+"Kathryn, Niemeyer",2012,204,male
+"David, Pincus",2012,204,male
+"Dragutin T, Mihailovic",2007,205,male
+"Igor, Balaz",2007,205,male
+"R, Metzler",1999,206,male
+"J, Klafter",1999,206,male
+"J, Jortner",1999,206,male
+"F J, Navarro Gonzalez",2012,207,unknown
+"Y, Villacampa",2012,207,unknown
+"El Hassene Ait, Mokhtar",2017,208,female
+"Radouane, Laggoune",2017,208,male
+"Alaa, Chateauneuf",2017,208,male
+"T, Oxley",2000,209,unknown
+"Brian, Castellani",2016,210,female
+"Rajeev, Rajaram",2016,210,male
+"Daniel, Foguelman",2021,211,male
+"Rodrigo, Castro",2021,211,male
+"Philipp, Henning",2021,211,male
+"Adelinde, Uhrmacher",2021,211,male
+"Umair, Ahmed",2021,212,male
+"Antonella, Certa",2021,212,female
+"Silvia, Carpitella",2021,212,male
+"RM, Yulmetyev",1999,213,male
+"FM, Gafarov",1999,213,unknown
+"Gianluca, D'Addese",2021,214,male
+"Martina, Casari",2021,214,male
+"Roberto, Serra",2021,214,male
+"Marco, Villani",2021,214,male
+"Christof, Schuette",2009,215,male
+"Tobias, Jahnke",2009,215,male
+"Nesrine, Elfelly",2010,216,male
+"Pierre, Borne",2010,216,male
+"Jean Yves, Dieulot",2010,216,unknown
+"Mohamed, Benrejeb",2010,216,male
+"Jana M, Weber",2021,217,male
+"Alexei A, Lapkin",2021,217,male
+"Constantin P, Lindenmeyer",2021,217,unknown
+"Pietro, Lio",2021,217,male
+"Emil, Pelikan",2014,218,male
+"Nikita S, Pyko",2018,219,male
+"Svetlana A, Pyko",2018,219,male
+"Oleg A, Markelov",2018,219,male
+"Artur, I, Karimov",2018,219,female
+"Denis N, Butusov",2018,219,female
+"Yaroslav, V, Zolotukhin",2018,219,male
+"Yuri D, Uljanitski",2018,219,male
+"Mikhail, I, Bogachev",2018,219,male
+"W, Jezewski",2004,220,female
+"Bryan R, Lewis",2018,221,unknown
+"Yacov Y, Haimes",2018,221,female
+"Antonio M, Lopes",2018,222,male
+"J A, Tenreiro Machado",2018,222,unknown
+"Ji Eun, Byun",2020,223,male
+"Junho, Song",2020,223,unknown
+"Juan G, Diaz Ochoa",2020,224,unknown
+"Sharon, Pollard",2008,225,unknown
+"Derick, du Toit",2008,225,male
+"Franck, Varenne",2015,226,male
+"Pierre, Chaigneau",2015,226,male
+"Jean, Petitot",2015,226,female
+"Rene, Doursat",2015,226,male
+"Gonzalo A, Aranda Corral",2013,227,female
+"Joaquin, Borrego Diaz",2013,227,male
+"Juan, Galan Paez",2013,227,unknown
+"K, KNUDSEN",1993,228,male
+"EH, STENBY",1993,228,male
+"A, FREDENSLUND",1993,228,male
+"Tang Shiping, Tang Shiping",2021,229,male
+"Mao Junfa, Mao Junfa",2021,229,male
+"Feng, Zhu",2015,230,male
+"Yiping, Yao",2015,230,male
+"Wenjie, Tang",2015,230,female
+"Dan, Chen",2015,230,male
+"Amihud, Hari",2007,231,male
+"Joseph E, Kasser",2007,231,male
+"Menachem P, Weiss",2007,231,unknown
+"Horace, Fairlamb",2012,232,male
+"Patricia, Arroba",2015,233,male
+"Jose M, Moya",2015,233,male
+"Jos L, Risco Martin",2015,233,male
+"Jose L, Ayala",2015,233,male
+"Charlan D, Kroelinger",2014,234,male
+"Violanda, Grigorescu",2014,234,male
+"Kristin M, Rankin",2014,234,male
+"David A, Chambers",2014,234,male
+"Ana V Diez, Roux",2014,234,male
+"Karen, Hughes",2014,234,male
+"Sigal, Samon",2021,235,male
+"Sharona T, Levy",2021,235,male
+"Nicolas A Balcom, Raleigh",2020,236,male
+"Anna, Kirveennummi",2020,236,male
+"Sari, Puustinen",2020,236,male
+"N, Hertkorn",2007,237,male
+"C, Ruecker",2007,237,male
+"M, Meringer",2007,237,male
+"R, Gugisch",2007,237,female
+"M, Frommberger",2007,237,male
+"E M, Perdue",2007,237,male
+"M, Witt",2007,237,male
+"P, Schmitt Kopplin",2007,237,male
+"Raoul R, Nigmatullin",2014,238,male
+"Airat A, Khamzin",2014,238,unknown
+"J, Tenreiro Machado",2014,238,male
+"J, Goldenberg",2001,239,unknown
+"B, Libai",2001,239,male
+"E, Muller",2001,239,male
+"Thomas R, Clancy",2008,240,unknown
+"R, Weber",2005,241,male
+"JM, Proctor",2005,241,unknown
+"I, Waldstein",2005,241,male
+"A, Kriete",2005,241,unknown
+"Janusz, Wolny",2018,242,male
+"Ireneusz, Buganski",2018,242,male
+"Radoslaw, Strzalka",2018,242,male
+"Joanna, Smietanska",2018,242,unknown
+"TV, de Araujo",1999,243,unknown
+"Jincan, Chen",2018,244,female
+"Tie, Liu",2018,244,male
+"Guozhen, Su",2018,244,female
+"Zhifu, Huang",2018,244,male
+"A, Ciach",2011,245,male
+"Dumitru, Popescu",2008,246,unknown
+"Mihaela, Mateescu",2008,246,female
+"Florin, Filip",2008,246,male
+"Antonio M, Lopes",2020,247,unknown
+"A Jose, Tenreiro Machado",2020,247,male
+"Hannah J, Littlecott",2019,248,unknown
+"Graham F, Moore",2019,248,male
+"Simon, Murphy",2019,248,male
+"Hugh Colin, Gallagher",2019,248,female
+"JH, Li",2004,249,female
+"JY, Zhang",2004,249,male
+"W, Ge",2004,249,male
+"XH, Liu",2004,249,male
+"CV, Phillips",1999,250,male
+"J, Wiles",2005,251,female
+"J, Watson",2005,251,unknown
+"S, Lanceros Mendez",2002,252,male
+"JF, Mano",2002,252,unknown
+"JA, Mendes",2002,252,male
+"Xingyuan, Wang",2015,253,unknown
+"Na, Wei",2015,253,unknown
+"Morad, Danishvar",2020,254,male
+"Alireza, Mousavi",2020,254,male
+"Peter, Broomhead",2020,254,male
+"Gerard, Ben Arous",2021,255,female
+"Yan, V Fyodorov",2021,255,male
+"Boris A, Khoruzhenko",2021,255,unknown
+"Krzysztof, Malecki",2017,256,male
+"Guy, Kelman",2018,257,male
+"Eran, Manes",2018,257,male
+"Marco, Lamieri",2018,257,male
+"David S, Bree",2018,257,female
+"Astero, Provata",2008,258,male
+"Igor M, Sokolov",2008,258,male
+"Bernardo, Spagnolo",2008,258,female
+"Rod C, Scott",2021,259,male
+"M, San Miguel",2012,260,male
+"J H, Johnson",2012,260,female
+"J, Kertesz",2012,260,male
+"K, Kaski",2012,260,male
+"A, Diaz Guilera",2012,260,male
+"R S, MacKay",2012,260,unknown
+"V, Loreto",2012,260,male
+"P, Erdi",2012,260,male
+"D, Helbing",2012,260,female
+"Kamal, Mirzaie",2012,261,male
+"Mehdi N, Fesharaki",2012,261,female
+"Liz, Varga",2016,262,male
+"Marguerite, Robinson",2016,262,unknown
+"Peter, Allen",2016,262,unknown
+"JC, Charpentier",2004,263,female
+"TF, McKenna",2004,263,male
+"A, Murari",0,264,female
+"M, Gelfusa",0,264,male
+"M, Lungaroni",0,264,male
+"P, Gaudio",0,264,male
+"E, Peluso",0,264,male
+"J, Palis",2002,265,unknown
+"Andrea, Rapisarda",2019,266,unknown
+"Stefan, Thurner",2019,266,unknown
+"Constantino, Tsallis",2019,266,unknown
+"Elizabeth A, Hobson",2019,267,unknown
+"Vanessa, Ferdinand",2019,267,unknown
+"Artemy, Kolchinsky",2019,267,male
+"Joshua, Garland",2019,267,male
+"J, Foster",2005,268,male
+"Marcel, Antal",2019,269,female
+"Claudia, Pop",2019,269,male
+"Teodor, Petrican",2019,269,unknown
+"Andreea Valeria, Vesa",2019,269,unknown
+"Tudor, Cioara",2019,269,male
+"Ionut, Anghel",2019,269,male
+"Ioan, Salomie",2019,269,male
+"Ewa, Niewiadomska Szynkiewicz",2019,269,male
+"J M, Garcia Manso",2008,270,male
+"J M, Martin Gonzalez",2008,270,unknown
+"M E, Da Silva Grigoletto",2008,270,male
+"D, Vaamonde",2008,270,unknown
+"P, Benito",2008,270,male
+"J, Calderon",2008,270,unknown
+"Yan Liang, Jin",2019,271,unknown
+"Lin, Yao",2019,271,male
+"Rui, Wang",2019,271,male
+"Xue, Wang",2019,271,female
+"Xue Tao, Luo",2019,271,male
+"Wei Si, Guo",2019,271,male
+"Junwei, Sun",2015,272,male
+"Guangzhao, Cui",2015,272,male
+"Yi, Shen",2015,272,male
+"Antonio M, Lopes",2018,273,female
+"J A, Tenreiro Machado",2018,273,unknown
+"W, Christensen",1996,274,unknown
+"R, Fivaz",1997,275,unknown
+"DA, Rew",2000,276,unknown
+"Xingwu, Chen",2014,277,unknown
+"Weinian, Zhang",2014,277,unknown
+"Valery G, Romanovski",2014,277,unknown
+"GS, Cumming",2005,278,male
+"J, Collier",2005,278,unknown
+"Josep Lluis, Uso Domenech",2016,279,male
+"Josue, Antonio Nescolarde Selva",2016,279,male
+"Miguel, Lloret Climent",2016,279,male
+"Meng, Fan",2016,279,male
+"Carmen, Nejneru",2013,280,male
+"Boris, Constantin",2013,280,unknown
+"Anca, Nicuta",2013,280,unknown
+"Liliana Rozemarie, Manea",2013,280,male
+"Mirela, Teodorescu",2013,280,male
+"Maricel, Agop",2013,280,female
+"Vsevolod, Salnikov",2019,281,unknown
+"Daniele, Cassese",2019,281,female
+"Renaud, Lambiotte",2019,281,male
+"W, VONLUCADOU",1991,282,male
+"GNR, Cundill",2005,283,male
+"C, Fabricius",2005,283,unknown
+"N, Marti",2005,283,male
+"Pavani, Rangachari",2009,284,unknown
+"W, Banzhaf",2007,285,unknown
+"N, Pillay",2007,285,male
+"Y, Oono",1998,286,male
+"G, Metta",2001,287,male
+"G, Sandini",2001,287,male
+"CE, Hmelo Silver",2004,288,unknown
+"MG, Pfeffer",2004,288,unknown
+"RJ, Lempert",2002,289,unknown
+"LA, Bloom",1999,290,male
+"BS, Bloom",1999,290,male
+"Liv M, Haselbach",2008,291,male
+"Michelle, Maher",2008,291,unknown
+"Peiyong, Liu",2008,292,unknown
+"Qingling, Zhang",2008,292,unknown
+"Xiaoguang, Yang",2008,292,male
+"Li, Yang",2008,292,male
+"Meinard, Kuhlmann",2014,293,male
+"David K, Ferry",2020,294,male
+"Ian, Welland",2020,294,male
+"Mihail, Nedjalkov",2020,294,male
+"Mauro, Ballicchia",2020,294,unknown
+"Siegfried, Selberherr",2020,294,female
+"Josef, Weinbub",2020,294,unknown
+"Gregoire, Nicolis",2009,295,female
+"Catherine, Nicolis",2009,295,male
+"A, Ray",2004,296,male
+"W, Ge",2002,297,male
+"JH, Li",2002,297,male
+"Ana V Diez, Roux",2011,298,male
+"Miguel A F, Sanjuan",2007,299,male
+"Ahjond S, Garmestani",2009,300,male
+"Craig R, Allen",2009,300,male
+"Lance, Gunderson",2009,300,unknown
+"A J, Nocek",2019,301,unknown
+"S, Morishita",2004,302,male
+"Jonathan C, Hilpert",2018,303,male
+"Gwen C, Marchand",2018,303,male
+"DG, ELMS",1992,304,unknown
+"P, Allen",2002,305,male
+"R, Ramlogan",2002,305,male
+"S, Randles",2002,305,male
+"L, LAM",1995,306,male
+"A V, Pankrushina",2017,307,male
+"T N, Gartman",2017,307,female
+"Robert L, Goldstone",2008,308,female
+"Uri, Wilensky",2008,308,male
+"Zhang Hai Feng, Zhang Hai Feng",2020,309,female
+"Wang Wen Xu, Wang Wen Xu",2020,309,male
+"S, FUNTOWICZ",1994,310,male
+"JR, RAVETZ",1994,310,male
+"Michele, Tumminello",2011,311,unknown
+"Salvatore, Micciche",2011,311,male
+"Fabrizio, Lillo",2011,311,male
+"Rosario N, Mantegna",2011,311,male
+"Jyrki, Piilo",2011,311,female
+"Martin, Gerlach",2019,312,unknown
+"Eduardo G, Altmann",2019,312,male
+"Thomas R, Clancy",2008,313,unknown
+"Thomas R, Clancy",2007,314,unknown
+"TQ, ZAN",1995,315,unknown
+"XM, WU",1995,315,male
+"G G, Malinetskii",2016,316,unknown
+"T S, Akhromeeva",2016,316,male
+"R, BIJKER",1992,317,male
+"JN, GINOCCHIO",1992,317,unknown
+"Yuan Wei, Du",2021,318,unknown
+"Xiao Xue, Li",2021,318,female
+"Yang Yu, Liu",2016,319,male
+"Albert Laszlo, Barabasi",2016,319,male
+"Jie, Sun",2011,320,unknown
+"Erik M, Bollt",2011,320,male
+"Takashi, Nishikawa",2011,320,female
+"Thomas L C, Jansen",2021,321,male
+"Alexander F, Siegenfeld",2020,322,male
+"Yaneer, Bar Yam",2020,322,unknown
+"Harold M, Hastings",2017,323,male
+"Jorn, Davidsen",2017,323,male
+"Henry, Leung",2017,323,male
+"Zengxiu, Zhao",2007,324,male
+"Thomas, Brabec",2007,324,male
+"A, Gecow",2005,325,female
+"M, Nowostawski",2005,325,female
+"M, Purvis",2005,325,male
+"A Yu, Aleksandrov",2008,326,male
+"A V, Platonov",2008,326,male
+"Moses T, Adoko",2015,327,male
+"Thomas A, Mazzuchi",2015,327,female
+"Shahram, Sarkani",2015,327,male
+"Rina, Dutta",2007,328,male
+"Pragya, Shukla",2007,328,male
+"J F, Gifun",2010,329,male
+"D M, Karydas",2010,329,male
+"Erin, Hennessy",2020,330,unknown
+"Christina D, Economos",2020,330,unknown
+"Ross A, Hammond",2020,330,male
+"Roberto, Serra",2010,331,male
+"Humaira, Afzal",2020,332,male
+"Muhammad Rafiq, Mufti",2020,332,male
+"Sami Ud, Din",2020,332,male
+"Qarab Raza, Butt",2020,332,unknown
+"Muhammad Imran, Qureshi",2020,332,male
+"Dost Muhammad, Khan",2020,332,unknown
+"Waqar, Aslam",2020,332,male
+"Gamal M, Mahmoud",2016,333,unknown
+"Mansour E, Ahmed",2016,333,male
+"Tarek M, Abed Elhameed",2016,333,male
+"RB, Pandey",2005,334,male
+"MW, Hofbaur",2004,335,unknown
+"BC, Williams",2004,335,male
+"Ali Nouri, Gharahasanlou",2018,336,unknown
+"Mohammad, Ataei",2018,336,male
+"Reza, Khalokakaie",2018,336,male
+"Abbas, Barabadi",2018,336,unknown
+"Ping, Liu",2011,337,female
+"Shutang, Liu",2011,337,male
+"J L, Proctor",2014,338,female
+"S L, Brunton",2014,338,male
+"B W, Brunton",2014,338,female
+"J N, Kutz",2014,338,male
+"Binglin, Wang",2020,339,unknown
+"Xiaojun, Duan",2020,339,unknown
+"Liang, Yan",2020,339,male
+"Hua, Zhao",2020,339,male
+"Yueying, Zhu",2017,340,unknown
+"Qiuping Alexandre, Wang",2017,340,female
+"Wei, Li",2017,340,male
+"Xu, Cai",2017,340,male
+"AY, SHCHEGLOV",1993,341,male
+"VV, KOROTKIKH",1995,342,male
+"Georgi Yordanov, Georgiev",2015,343,male
+"Kaitlin, Henry",2015,343,male
+"Timothy, Bates",2015,343,male
+"Erin, Gombos",2015,343,male
+"Alexander, Casey",2015,343,unknown
+"Michael, Daly",2015,343,male
+"Amrit, Vinod",2015,343,male
+"Hyunseung, Lee",2015,343,male
+"Alice, Mueller Leonhardt",2014,344,male
+"Joachim, Vogt",2014,344,male
+"Tim, Schuermann",2014,344,male
+"Shannon G, Mitchell",2014,344,unknown
+"Seungwoong, Ha",2021,345,male
+"Hawoong, Jeong",2021,345,male
+"Richard, Foote",2007,346,male
+"Vijitashwa, Pandey",2013,347,female
+"Zissimos P, Mourelatos",2013,347,male
+"S, Kontogiannis",2005,348,unknown
+"P, Spirakis",2005,348,male
+"D, Chmurny",2000,349,unknown
+"R, Chmurny",2000,349,unknown
+"Arnaud, Heibig",2012,350,male
+"Liviu Iulian, Palade",2012,350,female
+"MA, Dahleh",1999,351,unknown
+"Shahnewaz, Siddique",2014,352,male
+"Vitali, Volovoi",2014,352,male
+"Joshua L, Pulsipher",2019,353,male
+"Daniel, Rios",2019,353,unknown
+"Victor M, Zavala",2019,353,male
+"Sten, Sootla",2017,354,male
+"Dirk Oliver, Theis",2017,354,male
+"Raul, Vicente",2017,354,female
+"R, Boumen",2009,355,male
+"I S M, de Jong",2009,355,female
+"S, Ruan",2009,355,female
+"J M, van de Mortel Fronczak",2009,355,female
+"J E, Rooda",2009,355,male
+"Giulio, Bottegal",2015,356,unknown
+"Giorgio, Picci",2015,356,female
+"N A, Baas",2009,357,male
+"Natalia, Balague",2013,358,male
+"Carlota, Torrents",2013,358,male
+"Robert, Hristovski",2013,358,male
+"Keith, Davids",2013,358,unknown
+"Duarte, Araujo",2013,358,unknown
+"Y, Bar Yam",2005,359,male
+"M, Gunzburger",2006,360,female
+"J, Peterson",2006,360,unknown
+"Fatihcan M, Atay",2011,361,male
+"Adrian, Hernandez",2021,362,male
+"Jose M, Amigo",2021,362,male
+"KE, Limburg",2002,363,male
+"RV, O'Neill",2002,363,female
+"R, Costanza",2002,363,unknown
+"S, Farber",2002,363,unknown
+"Nicolas, Brodu",2009,364,male
+"AY, Aleksandrov",2001,365,unknown
+"Eugene, Jr, Santos",2017,366,male
+"Yan, Zhao",2017,366,male
+"D, Chmurny",1996,367,male
+"R, Chmurny",1996,367,male
+"Xiaoguang, Li",2018,368,male
+"Li, Zhou",2018,368,male
+"Zhonghua, Hao",2018,368,unknown
+"Qu Quan, Wang",2018,368,male
+"H, Hirata",1999,369,male
+"N, Iimura",1999,369,male
+"WD, Wang",2004,370,unknown
+"MX, Jiang",2004,370,female
+"N, Lemke",2004,371,unknown
+"RMC, de Almeida",2004,371,male
+"Rose, Challenger",2013,372,male
+"Chris W, Clegg",2013,372,male
+"Craig, Shepherd",2013,372,male
+"Inma T, Castro",2020,373,male
+"Rob J, I, Basten",2020,373,male
+"Geert Jan, Van Houtum",2020,373,unknown
+"Nita, Yodo",2017,374,male
+"Pingfeng, Wang",2017,374,female
+"Zhi, Zhou",2017,374,male
+"Lauren, Barth Cohen",2018,375,female
+"Jiqiang, Wang",2019,376,female
+"LA, Wang",1996,377,female
+"R, Langari",1996,377,female
+"Torbjorn, Bjerga",2016,378,female
+"Terje, Aven",2016,378,female
+"Enrico, Zio",2016,378,male
+"HM, Gupta",2000,379,unknown
+"JR, Campanha",2000,379,male
+"Joshua L, Proctor",2016,380,male
+"Steven L, Brunton",2016,380,unknown
+"J Nathan, Kutz",2016,380,female
+"K, Liu",2006,381,female
+"L, Sun",2006,381,female
+"S, Tan",2006,381,male
+"F J, Navarro Gonzalez",2013,382,female
+"Y, Villacampa",2013,382,female
+"MJ, Hinich",2006,383,female
+"J, Foster",2006,383,unknown
+"P, Wild",2006,383,unknown
+"Raul R, Nigmatullin",2015,384,female
+"A S, Khramov",2015,384,male
+"A G, Kiyamov",2015,384,female
+"B F, Fatkhullin",2015,384,female
+"J T, Machado",2015,384,female
+"Dumitru, Baleanu",2015,384,male
+"JG, Torres Toledano",1998,385,unknown
+"LE, Sucar",1998,385,unknown
+"RC, Hwa",1999,386,female
+"ATC, GOH",1995,387,male
+"Junwei, Sun",2016,388,male
+"Jie, Fang",2016,388,male
+"Yanfeng, Wang",2016,388,female
+"Guangzhao, Cui",2016,388,female
+"Ognen, Paunovski",2009,389,unknown
+"George, Eleftherakis",2009,389,male
+"Anthony J, Cowling",2009,389,unknown
+"Romulus, Gruia",2010,390,female
+"Saeed, Zalzadeh",0,391,female
+"Miles, MacLeod",2020,392,female
+"Juan V, Escobar",2018,393,female
+"Isaac, Perez Castillo",2018,393,female
+"Fabian, Adelt",2014,394,male
+"Johannes, Weyer",2014,394,female
+"Robin D, Fink",2014,394,male
+"Carlo, Bianca",2012,395,unknown
+"Carlo, Bianca",2013,396,unknown
+"Zhang Bin, Zhang Bin",2010,397,female
+"Zhao Zeng Xiu, Zhao Zeng Xiu",2010,397,female
+"Glenn N, Saxe",2016,398,female
+"Jiwen, Ren",2016,398,female
+"Nora, Bergman",2016,398,female
+"Alexander, Statnikov",2016,398,female
+"David, Fenyo",2016,398,female
+"Zhiguo, Li",2016,398,male
+"Meera, Prasad",2016,398,female
+"Dennis, Wall",2016,398,female
+"Ernestine C, Briggs",2016,398,female
+"Constantin, Aliferis",2016,398,male
+"Robert M, Hazen",2010,399,unknown
+"Niles, Eldredge",2010,399,unknown
+"T, Brabec",2005,400,female
+"M, Cote",2005,400,male
+"P, Boulanger",2005,400,male
+"L, Ramunno",2005,400,unknown
+"Richard, Dikau",2006,401,female
+"Fan Dongping, Fan Dongping",2007,402,female
+"Iris R, Bell",2013,403,male
+"Mary, Koithan",2013,403,female
+"Kathryn, Niemeyer",2013,403,male
+"CM, Mitchell",1997,404,female
+"GA, Sundstrom",1997,404,female
+"Cristian, Toma",2012,405,female
+"Richard, Plate",2010,406,male
+"NQ, Feng",2005,407,male
+"YH, Qiu",2005,407,unknown
+"F, Wang",2005,407,female
+"YS, Zhang",2005,407,female
+"SQ, Yin",2005,407,male
+"A, CONIGLIO",1993,408,female
+"N, Bellomo",2014,409,female
+"F, Brezzi",2014,409,female
+"JS, Shi",1995,410,female
+"SM, Abourizk",1995,410,female
+"G, NICOLIS",1994,411,unknown
+"P, GASPARD",1994,411,male
+"Marton, Posfai",2014,412,female
+"Philipp, Hoevel",2014,412,male
+"DG, WILLINGHAM",1990,413,unknown
+"JD, FORSTER",1990,413,female
+"M, Svitek",2019,414,male
+"Yunus, Bicen",2020,415,female
+"Yacov Y, Haimes",2018,416,male
+"Ricardo, Cavieses Nunez",2021,417,female
+"Miguel A, Ojeda Ruiz",2021,417,female
+"Alfredo, Flores Irigollen",2021,417,female
+"Elvia, Marin Monroy",2021,417,female
+"Carlos, Sanchez Ortiz",2021,417,male
+"Mirtha, Lbanez Lucero",2021,417,female
+"Jan, Korbel",2018,418,female
+"Rudolf, Hanel",2018,418,unknown
+"Stefan, Thurner",2018,418,female
+"Claire, Christensen",2007,419,female
+"Reka, Albert",2007,419,unknown
+"Agnieszka, Kowalska Styczen",2018,420,male
+"Krzysztof, Malarz",2018,420,unknown
+"Kamil, Paradowski",2018,420,unknown
+"James P L, Tan",2016,421,unknown
+"J, Bellazzini",2004,422,female
+"Marc, Timme",2020,423,male
+"Michelle Hoda, Wilkerson Jerde",2015,424,male
+"Uri J, Wilensky",2015,424,female
+"Xiangrong, Wang",2021,425,male
+"Yi, Wang",2021,425,female
+"Alejandro, Tejedor",2021,425,male
+"Yamir, Moreno",2021,425,unknown
+"Yanqing, Lv",2013,426,female
+"Jianmin, Gao",2013,426,male
+"Zhiyong, Gao",2013,426,female
+"Hongquan, Jiang",2013,426,female
+"Ruirui, Chen",2020,427,male
+"Chun Hsien, Chen",2020,427,female
+"Yusheng, Liu",2020,427,male
+"Xiaoping, Ye",2020,427,female
+"Shital A, Thekdi",2019,428,female
+"Joost, Santos",2019,428,male
+"DE, Koulouriotis",2005,429,female
+"IE, Diakoulakis",2005,429,unknown
+"DM, Emiris",2005,429,female
+"CD, Zopounidis",2005,429,male
+"Balkrishna C, Rao",2020,430,female
+"B, STILMAN",1993,431,female
+"MJ, Jacobson",2006,432,male
+"U, Wilensky",2006,432,female
+"Ralf, Widenhorn",2010,433,male
+"Erik, Bodegom",2010,433,female
+"Dan, Iordache",2010,433,female
+"Ionel, Tunaru",2010,433,male
+"LAN, Amaral",2004,434,female
+"JM, Ottino",2004,434,female
+"Huajian, Yu",2021,435,male
+"Liuchun, Zheng",2021,435,female
+"Tao, Zhang",2021,435,female
+"Jingjing, Ren",2021,435,female
+"Wen, Cheng",2021,435,male
+"Lijuan, Zhang",2021,435,female
+"Peipei, Meng",2021,435,male
+"I, Apostol",2013,436,female
+"D, Iordache",2013,436,female
+"Cuimei, Jiang",2015,437,male
+"Shutang, Liu",2015,437,female
+"Stefana, Agop",2021,438,male
+"Gavril, Stefan",2021,438,male
+"Vladimir Alexandru, Paun",2021,438,unknown
+"Tudor Cristian, Petrescu",2021,438,male
+"Maricel, Agop",2021,438,unknown
+"Viorel Puiu, Paun",2021,438,male
+"Junwei, Sun",2015,439,male
+"Guangzhao, Cui",2015,439,unknown
+"Yanfeng, Wang",2015,439,female
+"Yi, Shen",2015,439,unknown
+"Jeryang, Park",2014,440,female
+"P Suresh C, Rao",2014,440,unknown
+"M, Anand",2004,441,female
+"RE, Desrochers",2004,441,male
+"Fabian, Adelt",2014,442,female
+"Johannes, Weyer",2014,442,unknown
+"Robin D, Fink",2014,442,unknown
+"MAF, Gomes",1995,443,female
+"FAO, deSouza",1995,443,female
+"SK, Adhikari",1995,443,female
+"Simone, Cheli",2018,444,male
+"Zhifu, Huang",2013,445,female
+"Congjie, Ou",2013,445,unknown
+"Bihong, Lin",2013,445,female
+"Guozhen, Su",2013,445,female
+"Jincan, Chen",2013,445,unknown
+"A K, Sinha",2021,446,male
+"K A, Loparo",2021,446,unknown
+"Brent A, Langellier",2019,447,female
+"Usama, Bilal",2019,447,male
+"Felipe, Montes",2019,447,female
+"Jose D, Meisel",2019,447,female
+"Leticia de Oliveira, Cardoso",2019,447,male
+"Ross A, Hammond",2019,447,male
+"Zuhal, Tompkins",2020,448,female
+"Michael, Grenn",2020,448,male
+"Blake, Roberts",2020,448,female
+"Albrecht, Mayer",2007,449,unknown
+"Harry, Siebert",2007,449,female
+"Klaus D, McDonald Maier",2007,449,unknown
+"TJ, Wheeler",2006,450,female
+"Joseph E, Lawrence",2020,451,unknown
+"David E, Manolopoulos",2020,451,unknown
+"Benjamin, Allen",2017,452,female
+"Blake C, Stacey",2017,452,male
+"Yaneer, Bar Yam",2017,452,female
+"Frederic, Amblard",2008,453,female
+"Wander, Jager",2008,453,male
+"Xiaoming, Wang",2008,454,unknown
+"Margaret, Morrison",2014,455,male
+"Ping, Liu",2012,456,female
+"Shutang, Liu",2012,456,male
+"Xiang, Li",2012,456,female
+"Chris, Eliasmith",2012,457,female
+"Naoki, Kobayashi",2011,458,female
+"Jun ichi, Wakita",2011,458,male
+"Mitsugu, Matsushita",2011,458,female
+"Hiroto, Kuninaka",2011,458,male
+"E, Capobianco",2003,459,male
+"A, Mandowski",2004,460,female
+"RD, YOUNG",1991,461,female
+"R, SCHOLL",1991,461,male
+"Joshua Logan, Grumbach",2020,462,female
+"Lawrence Dale, Thomas",2020,462,unknown
+"IK, Kokhanenko",2002,463,male
+"Jing, Wang",2017,464,female
+"Xue Ping, Guo",2017,464,female
+"Hong Xiu, Zhong",2017,464,female
+"Istvan A, Kovacs",2020,465,female
+"Robert, Juhasz",2020,465,male
+"Renbin, Xiao",2015,466,female
+"Yaofeng, Zhang",2015,466,unknown
+"Zhendong, Huang",2015,466,female
+"Huang Jianzhi, Huang Jianzhi",2020,467,male
+"Zhang Huichun, Zhang Huichun",2020,467,female
+"Sharon, Hammes Schiffer",2020,468,male
+"XH, Ye",2005,469,male
+"J, Chu",2005,469,male
+"YP, Zhuang",2005,469,male
+"SL, Zhang",2005,469,unknown
+"SPS, ANDREW",1993,470,unknown
+"Holger, Hennig",2014,471,unknown
+"Cliff, Hooker",2013,472,unknown
+"Yingwei, Zhang",2006,473,unknown
+"Siying, Zhang",2006,473,unknown
+"Katie, Moon",2021,474,male
+"Nicola K, Browne",2021,474,female
+"Jeffrey W, Bloom",2013,475,female
+"Y, Nakamori",2000,476,female
+"Y, Sawaragi",2000,476,male
+"Antonio M, Lopes",2015,477,unknown
+"J A, Tenreiro Machado",2015,477,unknown
+"Alexandra M, Galhano",2015,477,male
+"Victor, Korotkikh",2008,478,male
+"Galina, Korotkikh",2008,478,female
+"XD, Liu",1999,479,male
+"HW, Ryan",1999,480,female
+"Diane, Larsen Freeman",2008,481,unknown
+"Lynne, Cameron",2008,481,male
+"Yang Yu, Liu",2013,482,unknown
+"Albert Laszlo, Barabasi",2013,482,male
+"Jean Jacques, Slotine",2013,482,unknown
+"Jose Luis, Uso Domenech",2017,483,unknown
+"Josue, Antonio Nescolarde Selva",2017,483,female
+"Miguel, Lloret Climent",2017,483,male
+"Fiona, Polack",2015,484,female
+"Jose, Evora",2015,485,male
+"Jose, Juan Hernandez",2015,485,male
+"Mario, Hernandez",2015,485,female
+"AV, GaponovGrekhov",1996,486,male
+"MI, Rabinovich",1996,486,female
+"N F, Johnson",2006,487,female
+"D M D, Smith",2006,487,unknown
+"P M, Hui",2006,487,unknown
+"V, Basios",2016,488,unknown
+"S C, Nicolis",2016,488,unknown
+"J L, Deneubourg",2016,488,unknown
+"Matthew, Collinson",2014,489,unknown
+"Kevin, McDonald",2014,489,unknown
+"David, Pym",2014,489,male
+"M, Timko",2004,490,unknown
+"M, Koneracka",2004,490,female
+"P, Kopcansky",2004,490,male
+"CN, Ramchand",2004,490,male
+"L, Vekas",2004,490,male
+"D, Bica",2004,490,female
+"V, Grimm",2005,491,unknown
+"E, Revilla",2005,491,female
+"U, Berger",2005,491,female
+"F, Jeltsch",2005,491,female
+"WM, Mooij",2005,491,female
+"SF, Railsback",2005,491,unknown
+"HH, Thulke",2005,491,female
+"J, Weiner",2005,491,female
+"T, Wiegand",2005,491,female
+"DL, DeAngelis",2005,491,female
+"RO, Dendy",2004,492,unknown
+"SC, Chapman",2004,492,male
+"TK, March",2004,492,unknown
+"Shan, Mei",2015,493,unknown
+"Narges, Zarrabi",2015,493,male
+"Michael, Lees",2015,493,female
+"Peter M A, Sloot",2015,493,female
+"Matti T J, Heino",2021,494,male
+"Keegan, Knittle",2021,494,unknown
+"Nelli, Hankonen",2021,494,unknown
+"Chris, Noone",2021,494,unknown
+"Fred, Hasselman",2021,494,female
+"Ricard, Sole",2008,495,male
+"Yannick, Joye",2007,496,female
+"Philip, Van Locke",2007,496,unknown
+"Christos K, Volos",2019,497,unknown
+"Sajad, Jafari",2019,497,unknown
+"Jacques, Kengne",2019,497,male
+"Jesus M, Munoz Pacheco",2019,497,female
+"Karthikeyan, Rajagopal",2019,497,female
+"M, Bozzano",2003,498,female
+"A, Cavallo",2003,498,male
+"M, Cifaldi",2003,498,female
+"L, Valacca",2003,498,unknown
+"A, Villafiorita",2003,498,female
+"J A, Betancourt Mar",2016,499,unknown
+"J M, Nieto Villar",2016,499,female
+"M, Rodriguez Ricard",2016,499,female
+"R, Mansilla",2016,499,female
+"G, Cocho",2016,499,female
+"A Yu, Aleksandrov",0,500,male
+"Daniel, Kostic",2018,501,female
+"HD, Holder",1998,502,male
+"Venkat, Venkatasubramanian",2011,503,male
+"Irene, Macaluso",2016,504,female
+"Carlo, Galiotto",2016,504,unknown
+"Nicola, Marchetti",2016,504,unknown
+"Linda, Doyle",2016,504,male
+"Charles, Rathkopf",2018,505,female
+"Matthew, Berland",2015,506,male
+"Uri, Wilensky",2015,506,unknown
+"M E J, Newman",2011,507,male
+"Renaud, Lambiotte",2019,508,male
+"Martin, Rosvall",2019,508,female
+"Ingo, Scholtes",2019,508,male
+"Leiyu, Chen",2021,509,male
+"Zhijie, Zhou",2021,509,female
+"Changhua, Hu",2021,509,female
+"Ruihua, Yue",2021,509,male
+"Zhichao, Feng",2021,509,female
+"Alexander, Gegov",2016,510,female
+"David, Sanders",2016,510,male
+"Boriana, Vatchova",2016,510,female
+"Alan A, Cohen",2016,511,unknown
+"Jan, Awrejcewicz",2021,512,male
+"Miguel A F, Sanjuan",2021,512,female
+"Zhijie, Zhou",2021,513,male
+"Leiyu, Chen",2021,513,female
+"Xiaoxia, Han",2021,513,unknown
+"Shuaiwen, Tang",2021,513,male
+"Gailing, Li",2021,513,unknown
+"Federico E, Turkheimer",0,514,unknown
+"Ottavia, Dipasquale",0,514,unknown
+"Daniel, Martins",0,514,male
+"Erik D, Fagerholm",0,514,unknown
+"Frantisek, Vasa",0,514,female
+"Robert, Leech",0,514,female
+"Fernando E, Rosas",0,514,unknown
+"Paul, Expert",0,514,unknown
+"Louis David, Lord",0,514,female
+"Andac T, Arikan",2010,515,male
+"A A, Malafeeva",2010,516,female
+"N, Naikar",2001,517,unknown
+"PM, Sanderson",2001,517,male
+"BT, Zhang",1997,518,female
+"P, Ohm",1997,518,male
+"H, Muhlenbein",1997,518,female
+"F, MONCHOUX",1995,519,unknown
+"D, ZELY",1995,519,female
+"A, CORDIER",1995,519,female
+"Orlando, Gomes",2021,520,female
+"Mariya, Gubareva",2021,520,male
+"Lei, Liu",2014,521,male
+"Fei, Hu",2014,521,female
+"Fang, Wang",2018,522,female
+"Lin, Wang",2018,522,female
+"Yuming, Chen",2018,522,male
+"Xiangjun, Wu",2013,523,male
+"Jinke, Wang",2013,523,female
+"John, Burkardt",2006,524,female
+"Max, Gunzburger",2006,524,male
+"Hyung Chun, Lee",2006,524,female
+"Haidong, Feng",2010,525,male
+"Bo, Han",2010,525,female
+"Jin, Wang",2010,525,male
+"K R, Lambert",2020,526,unknown
+"JD, STERMAN",1994,527,unknown
+"Graham F, Moore",2019,528,male
+"Rhiannon E, Evans",2019,528,female
+"G J, Melendez Torres",2019,528,male
+"Jemma, Hawkins",2019,528,female
+"Hannah, Littlecott",2019,528,male
+"Chris, Bonell",2019,528,unknown
+"Simon, Murphy",2019,528,female
+"Michele, Tumminello",2011,529,unknown
+"Salvatore, Micciche",2011,529,male
+"Fabrizio, Lillo",2011,529,unknown
+"Rosario N, Mantegna",2011,529,female
+"Jan, Varho",2011,529,male
+"Jyrki, Piilo",2011,529,female
+"Javier, Garcia Rubio",2013,530,unknown
+"Sergio J, Ibanez",2013,530,male
+"Antonio, Antunez",2013,530,unknown
+"Maria, Canadas",2013,530,male
+"P, Arena",2000,531,female
+"R, Caponetto",2000,531,unknown
+"L, Fortuna",2000,531,female
+"A, Rizzo",2000,531,female
+"M, La Rosa",2000,531,female
+"Yanwu, Yang",2018,532,male
+"Xin, Li",2018,532,female
+"Daniel, Zeng",2018,532,male
+"Bernard J, Jansen",2018,532,unknown
+"Bo, Shen",2012,533,unknown
+"Zidong, Wang",2012,533,male
+"Jinling, Liang",2012,533,female
+"Yurong, Liu",2012,533,unknown
+"Gottrfied, Mayer Kress",2006,534,female
+"Yeou Teh, Liu",2006,534,male
+"Karl M, Newell",2006,534,female
+"BY, Yaneer",2004,535,male
+"Emanuela, Merelli",2016,536,female
+"Luca, Tesei",2016,536,female
+"Nicola, Paoletti",2016,536,male
+"Giorgio, Parisi",2006,537,female
+"Gailing, Li",2019,538,male
+"Zhijie, Zhou",2019,538,unknown
+"Changhua, Hu",2019,538,female
+"Leilei, Chang",2019,538,male
+"Chuanqiang, Yu",2019,538,female
+"Hongtao, Zhang",2019,538,male
+"Laura, Diosan",2008,539,male
+"Dumitru, Dumitrescu",2008,539,female
+"Fangfang, Zhang",2014,540,unknown
+"Shutang, Liu",2014,540,male
+"Ismihan, Bayramoglu (Bairamov)",2013,541,female
+"Andreas, Grueneis",2017,542,male
+"Seiichiro, Ten no",2017,542,female
+"So, Hirata",2017,542,male
+"Yu Ya, Ohnishi",2017,542,unknown
+"Christian, Beck",2009,543,female
+"Khaoula, Tidriri",2019,544,unknown
+"Sylvain, Verron",2019,544,unknown
+"Teodor, Tiplica",2019,544,female
+"Nizar, Chatti",2019,544,female
+"George, Mobus",2017,545,unknown
+"Gawonou Kokou, N'Tsouaglo",2015,546,male
+"Laurent Karim, Beland",2015,546,female
+"Jean Francois, Joly",2015,546,female
+"Normand, Mousseau",2015,546,unknown
+"Peter, Brommer",2015,546,male
+"Pascal, Pochet",2015,546,female
+"Xuan Toa, Tran",2017,547,male
+"Hee Jun, Kang",2017,547,female
+"S V, Kozyrev",2015,548,female
+"Nabil, Sadou",2012,549,female
+"Romaric, Guillerm",2012,549,female
+"Hamid, Demmou",2012,549,female
+"D, Roy",2000,550,male
+"T, Dasgupta",2000,550,unknown
+"VA, Vittikh",1998,551,female
+"Elizabeth, McGill",2021,552,male
+"Vanessa, Er",2021,552,female
+"Natalie, Savona",2021,552,male
+"Tarra, Penney",2021,552,female
+"Martin, White",2021,552,unknown
+"Matt, Egan",2021,552,unknown
+"Dalya, Marks",2021,552,male
+"Steven, Cummins",2021,552,female
+"Mark, Petticrew",2021,552,unknown
+"Petra, Meier",2021,552,female
+"Margaret, Whitehead",2021,552,female
+"Rachel Anderson, de Cuevas",2021,552,female
+"Karen, Lock",2021,552,female
+"Richard, Smith",2021,552,female
+"Harry, Rutter",2021,552,unknown
+"Frank, de Vocht",2021,552,unknown
+"Jennie, Popay",2021,552,male
+"Eugene, Ch'ng",2013,553,unknown
+"S, Jr, Picoli",2009,554,female
+"Sigal, Samon",2017,555,male
+"Sharona T, Levy",2017,555,female
+"Yu, Sun",2021,556,female
+"Gaoke, Hu",2021,556,female
+"Yongwen, Zhang",2021,556,female
+"Bo, Lu",2021,556,unknown
+"Zhenghui, Lu",2021,556,female
+"Jingfang, Fan",2021,556,male
+"Xiaosong, Chen",2021,556,female
+"Xiaoteng, Li",2021,556,unknown
+"Qimin, Deng",2021,556,female
+"Q, Sun",2003,557,unknown
+"RH, Li",2003,557,female
+"P, Zhang",2003,557,male
+"Diorgenes Falcao, Mamedio",2020,558,female
+"Victor, Meyer Jr",2020,558,male
+"Xiaoqi, Zhang",2021,559,female
+"Li, Cheng",2021,559,female
+"Yang, Liu",2021,559,unknown
+"Jingtao, Du",2021,559,male
+"Megan Powell, Cuzzolino",2019,560,male
+"Tina A, Grotzer",2019,560,male
+"Eric W, Torres",2019,560,unknown
+"M Shane, Tutwiler",2019,560,male
+"German, Terrazas",2007,561,male
+"Peter, Siepmann",2007,561,male
+"Graham, Kendall",2007,561,male
+"Natalio, Krasnogor",2007,561,male
+"Cindy E, Hmelo Silver",2007,562,male
+"Surabhi, Marathe",2007,562,male
+"Lei, Liu",2007,562,unknown
+"Pier Luigi, Gentili",2021,563,unknown
+"Jinqiao, Duan",2009,564,female
+"Lei, Liu",2009,565,male
+"Cindy E, Hmelo Silver",2009,565,male
+"Wen, Sun",2011,566,male
+"Francis, Austin",2011,566,female
+"Jinhu, Lu",2011,566,male
+"Shihua, Chen",2011,566,unknown
+"H, Tianfield",2002,567,unknown
+"Tiejun Chen, Tiejun Chen",2006,568,female
+"Qingshan Zeng, Qingshan Zeng",2006,568,male
+"Susan, Coetzee Van Rooy",2010,569,male
+"G, Yu",1998,570,male
+"ST, Lee",1998,570,female
+"JKL, Lai",1998,570,female
+"Riley, Crane",2008,571,unknown
+"Didier, Sornette",2008,571,male
+"Joshua A, Danish",2011,572,unknown
+"Kylie, Peppler",2011,572,male
+"David, Phelps",2011,572,male
+"DiAnna, Washington",2011,572,male
+"PS, GRASSIA",1995,573,male
+"EJ, HINCH",1995,573,female
+"LC, NITSCHE",1995,573,male
+"Weiwen, Peng",2016,574,female
+"Yan Feng, Li",2016,574,male
+"Jinhua, Mi",2016,574,unknown
+"Le, Yu",2016,574,unknown
+"Hong Zhong, Huang",2016,574,female
+"A Yu, Aleksandrov",2009,575,male
+"A V, Platonov",2009,575,male
+"Jun, Zhang",2015,576,male
+"Jiang, Jiang",2015,576,male
+"Yingwu, Chen",2015,576,male
+"Kewei, Yang",2015,576,male
+"Rongxing, Duan",2021,577,male
+"Shujuan, Huang",2021,577,male
+"Jiejun, He",2021,577,male
+"Adilson E, Motter",2006,578,male
+"Manuel A, Matias",2006,578,male
+"Juergen, Kurths",2006,578,unknown
+"Edward, Ott",2006,578,unknown
+"Daniel T, Schmitt",2006,579,female
+"Michael, Schulz",2006,579,male
+"Christian, Beck",2009,580,male
+"OF, Sankey",1998,581,unknown
+"AA, Demkov",1998,581,female
+"W, Windl",1998,581,male
+"JH, Fritsch",1998,581,male
+"JP, Lewis",1998,581,male
+"M, Fuentes Cabrera",1998,581,male
+"AY, SHCHEGLOV",1991,582,male
+"Honghua, Zhang",2017,583,male
+"Yanji, Wang",2017,583,female
+"Ruixia, Liu",2017,583,male
+"Ruirui, Zhang",2017,583,male
+"Feng, Huo",2017,583,unknown
+"Zhiqiang, Yang",2017,583,male
+"Bin, He",2017,583,male
+"Suojiang, Zhang",2017,583,male
+"DE, MORTIN",1990,584,male
+"Anhishek, Nair",2019,585,male
+"Diana, Reckien",2019,585,male
+"M F A M, van Maarseveen",2019,585,male
+"Mark G, Orr",2014,586,male
+"David C, Plaut",2014,586,unknown
+"Yacov Y, Haimes",2010,587,male
+"Clyde, Chittister",2010,587,male
+"N, Berrah",2004,588,male
+"JD, Bozek",2004,588,unknown
+"RC, Bilodeau",2004,588,male
+"E, Kukk",2004,588,male
+"SJ, Lukasik",2003,589,male
+"Kunihiko, Kaneko",2015,590,male
+"YP, Rhee",2000,591,male
+"M, Maly",2001,592,female
+"R, Hrach",2001,592,female
+"D, Novotny",2001,592,male
+"Morteza, Soleimani",2021,593,male
+"Felician, Campean",2021,593,male
+"Daniel, Neagu",2021,593,female
+"H, Tianfield",2003,594,unknown
+"Chun, Wang",2008,595,female
+"Hamada H, Ghenniwa",2008,595,male
+"Weiming, Shen",2008,595,unknown
+"Changqing, Cheng",2018,596,male
+"L E, Melamed",2013,597,unknown
+"A I, Tropkina",2013,597,unknown
+"Zdenek, Beran",2013,598,unknown
+"Sergej, Celikovsky",2013,598,male
+"Pedro D, Manrique",2017,599,male
+"Minzhang, Zheng",2017,599,male
+"D Dylan Johnson, Restrepo",2017,599,female
+"Neil F, Johnson",2017,599,male
+"Pak Ming, Hui",2017,599,female
+"JC, HELTON",1994,600,male
+"Milan, Palus",2019,601,unknown
+"C  Z, Gao",2017,602,male
+"P M, Dinh",2017,602,male
+"E, Suraud",2017,602,male
+"P  G, Reinhard",2017,602,male
+"V I, Keilis Borok",2010,603,male
+"A A, Soloviev",2010,603,male
+"Z, ZAHREDDINE",1995,604,male
+"PE, Maslen",2005,605,female
+"Marco, Bianucci",2017,606,male
+"Y, Xiao",1997,607,male
+"P, Milgram",1997,607,male
+"DJ, Doyle",1997,607,unknown
+"L, Gao",2006,608,male
+"Y, Ding",2006,608,male
+"H, Ying",2006,608,male
+"Sarah A, Sheard",2018,609,male
+"Changqing, Cheng",2015,610,male
+"Hui, Yang",2015,610,male
+"Akkarapol, Sa Ngasoongsong",2015,610,male
+"Omer, Beyca",2015,610,male
+"Trung Le, Trung Le",2015,610,male
+"Zhenyu (James), Kong",2015,610,male
+"Satish T S, Bukkapatnam",2015,610,male
+"Maria Elena, Menconi",2021,611,male
+"Ambra, Sipone",2021,611,male
+"David, Grohmann",2021,611,male
+"Luo Chao, Luo Chao",2014,612,male
+"Wang Xingyuan, Wang Xingyuan",2014,612,male
+"JM, Carlson",2000,613,male
+"J, Doyle",2000,613,male
+"RM, Yulmetyev",2004,614,male
+"NA, Emelyanova",2004,614,female
+"FM, Gafarov",2004,614,male
+"Christine M, Anderson Cook",2007,615,male
+"Todd, Graves",2007,615,male
+"Michael, Hamada",2007,615,male
+"Nicholas, Hengartner",2007,615,male
+"Valen E, Johnson",2007,615,unknown
+"C Shane, Reese",2007,615,male
+"Alyson G, Wilson",2007,615,unknown
+"Tim, Kittel",2017,616,male
+"Jobst, Heitzig",2017,616,male
+"Kevin, Webster",2017,616,unknown
+"Juergen, Kurths",2017,616,male
+"Hiba N, Kouser",2021,617,unknown
+"Ruby, Barnard Mayers",2021,617,male
+"Eleanor, Murray",2021,617,unknown
+"Andrew, Pratley",2015,618,male
+"Erik, van Voorthuysen",2015,618,male
+"Ron, Chan",2015,618,male
+"D O, Kharchenko",2014,619,unknown
+"V O, Kharchenko",2014,619,unknown
+"S V, Kokhan",2014,619,female
+"Tomas, Perez Acle",2018,620,male
+"Ignacio, Fuenzalida",2018,620,female
+"Alberto J M, Martin",2018,620,male
+"Rodrigo, Santibanez",2018,620,male
+"Alejandro, Bernardin",2018,620,unknown
+"Alvaro M, Bustos",2018,620,female
+"Rodrigo, Avaria",2018,620,male
+"Daniel, Garrido",2018,620,unknown
+"Jonathan, Dushoff",2018,620,male
+"James H, Liu",2018,620,unknown
+"Zhenyuan, Zhao",2009,621,male
+"Andy, Kirou",2009,621,male
+"Blazej, Ruszczycki",2009,621,female
+"Neil F, Johnson",2009,621,female
+"Michael, Strevens",2005,622,male
+"Koichi, Kobayashi",2014,623,male
+"Kunihiko, Hiraishi",2014,623,male
+"Qun, Zhang",2016,624,male
+"Yi, Luo",2016,624,female
+"Mitchell J, Polley",2006,625,unknown
+"Frank R, Burden",2006,625,male
+"David A, Winkler",2006,625,unknown
+"Dan, Xiong",2014,626,male
+"Han, Zhao",2014,626,unknown
+"Y H, Chen",2014,626,unknown
+"Sen, Pei",2020,627,male
+"Jiannan, Wang",2020,627,male
+"Flaviano, Morone",2020,627,male
+"Hernan A, Makse",2020,627,female
+"Manuel, Ortega Rodriguez",2018,628,male
+"Sumedha, Basu",2019,629,unknown
+"Timon, Wehnert",2019,629,male
+"Kilian, Topp",2019,629,male
+"Catherine S E, Bale",2019,629,male
+"Tamas, Kalmar Nagy",2014,630,male
+"Ilinca, Stanciulescu",2014,630,female
+"Raffaella, Mulas",2021,631,male
+"Ruben J, Sanchez Garcia",2021,631,male
+"Ben D, MacArthur",2021,631,female
+"Swaroop S, Vattam",2011,632,male
+"Ashok K, Goel",2011,632,male
+"Spencer, Rugaber",2011,632,female
+"Cindy E, Hmelo Silver",2011,632,male
+"Suparna, Sinha",2011,632,male
+"Rebecca, Jordan",2011,632,male
+"Steven, Gray",2011,632,unknown
+"Lindsay, Beevers",2021,633,male
+"Melissa, Bedinger",2021,633,male
+"Kerri, McClymont",2021,633,female
+"Annie, Visser Quinn",2021,633,male
+"Dante Gama, Dessavre",2016,634,female
+"Jose E, Ramirez Marquez",2016,634,male
+"Kash, Barker",2016,634,unknown
+"W, Findeisen",2000,635,unknown
+"Stefan, Topolski",2009,636,female
+"S, Randles",2002,637,male
+"Luis A Nunes, Amaral",2007,638,female
+"Brian, Uzzi",2007,638,male
+"Yoshito, Hirata",2013,639,male
+"Kazuyuki, Aihara",2013,639,male
+"Yu, Guo",2019,640,male
+"William H, Sulis",2016,641,unknown
+"A, Lucny",2004,642,unknown
+"Dan, Xu",2017,643,unknown
+"Christian, Beck",2017,643,unknown
+"R O, Dendy",2007,644,unknown
+"S C, Chapman",2007,644,unknown
+"M, Paczuski",2007,644,male
+"R, Lutz",2001,645,male
+"J, Marro",2002,646,male
+"JM, Cortes",2002,646,female
+"PI, Hurtado",2002,646,male
+"Murilo S, Baptista",2008,647,unknown
+"Lirio O B, de Almeida",2008,647,unknown
+"Jan F W, Slaets",2008,647,male
+"Roland, Koberle",2008,647,male
+"Celso, Grebogi",2008,647,male
+"P, Shukla",2002,648,male
+"Anders, Jensen",2018,649,male
+"Terje, Aven",2018,649,unknown
+"Firas, Hamze",2013,650,male
+"Ziyu, Wang",2013,650,unknown
+"Nando, de Freitas",2013,650,male
+"Jordan, Jalving",2019,651,unknown
+"Yankai, Cao",2019,651,unknown
+"Victor M, Zavala",2019,651,male
+"K R, Lambert",2018,652,male
+"Thomas J, Wheeler",2007,653,female
+"Fatimah Abdul, Razak",2014,654,male
+"Henrik Jeldtoft, Jensen",2014,654,male
+"PS, Craig",2001,655,male
+"M, Goldstein",2001,655,male
+"JC, Rougier",2001,655,male
+"AH, Seheult",2001,655,female
+"JP, Parmantier",2004,656,unknown
+"Sebastian, Grauwin",2012,657,unknown
+"Guillaume, Beslon",2012,657,unknown
+"Eric, Fleury",2012,657,unknown
+"Sara, Franceschelli",2012,657,unknown
+"Celine, Robardet",2012,657,unknown
+"Pablo, Jensen",2012,657,unknown
+"Jean Baptiste, Rouquier",2012,657,male
+"MA, de Menezes",2004,658,unknown
+"AL, Barabasi",2004,658,male
+"C, SCHULZE",1991,659,male
+"KH, HOFFMANN",1991,659,male
+"P, SIBANI",1991,659,male
+"Matthew G, McIntire",2016,660,male
+"Christopher, Hoyle",2016,660,unknown
+"Irem Y, Tumer",2016,660,unknown
+"David C, Jensen",2016,660,male
+"Jiang, Zhang",2009,661,male
+"Jacek, Grela",2017,662,female
+"A K, Belyaev",2015,663,unknown
+"MS, Guo",2001,664,female
+"JH, Li",2001,664,male
+"Shaobin, Huang",2016,665,male
+"Ya, Li",2016,665,male
+"Yanmei, Li",2016,665,unknown
+"Dapeng, Lang",2016,665,male
+"Ronghua, Chi",2016,665,unknown
+"Haidong, Gu",2022,666,unknown
+"Chun An, Chou",2022,666,male
+"Zehui, Li",2007,667,male
+"Peng, Zhao",2007,667,male
+"P, Shukla",1999,668,male
+"Qingchun, Li",2021,669,unknown
+"Natalie, Coleman",2021,669,unknown
+"Ali, Mostafavi",2021,669,unknown
+"Zhiyuan, Tang",2021,669,male
+"S, Fumeron",2006,670,male
+"Xinghua, Liu",2018,671,male
+"Guoqi, Ma",2018,671,unknown
+"Hongsheng, Xi",2018,671,unknown
+"YP, Gunji",1997,672,unknown
+"S, Toyoda",1997,672,male
+"J D, Watson",2016,673,male
+"J D, Allen",2016,673,male
+"C A, Mattson",2016,673,male
+"E, Niewiadomska Szynkiewicz",2003,674,male
+"M, Zmuda",2003,674,male
+"Kristan, Cockerill",2009,675,unknown
+"Lacy, Daniel",2009,675,female
+"Leonard, Malczynski",2009,675,unknown
+"Vincent, Tidwell",2009,675,female
+"Jingyi, Wang",2021,676,male
+"Shengchao, Qin",2021,676,male
+"Jun, Sun",2021,676,male
+"Cyrille, Jegourel",2021,676,male
+"Yanto, Chandra",2017,677,male
+"Ian F, Wilkinson",2017,677,male
+"N M, Kortsenshtein",2019,678,male
+"Jacques, Gignoux",2017,679,male
+"Eric, Lateltin",2017,679,unknown
+"Guillaume, Cherel",2017,679,unknown
+"Ian D, Davies",2017,679,male
+"Shayne R, Flint",2017,679,male
+"Miguel R, Guevara",2016,680,male
+"Dominik, Hartmann",2016,680,unknown
+"Marcelo, Mendoza",2016,680,male
+"D J, Andrews",2012,681,male
+"Mahmoud, Efatmaneshnik",2010,682,male
+"VA, Avetisov",2003,683,male
+"AK, Bikulov",2003,683,male
+"V, Al Osipov",2003,683,female
+"Anthony J, Webster",2019,684,female
+"Donato, D'Ambrosio",2018,685,male
+"Alessio, De Rango",2018,685,female
+"William, Spataro",2018,685,male
+"Rocco, Rongo",2018,685,male
+"Marco, Oliverio",2018,685,male
+"Davide, Spataro",2018,685,unknown
+"Giuseppe, Mendicino",2018,685,male
+"Alfonso, Senatore",2018,685,male
+"Matthew, Fisher",2016,686,male
+"Danijela, Milos",2016,686,female
+"Frances, Baum",2016,686,unknown
+"Sharon, Friel",2016,686,male
+"Xingyuan, Wang",2013,687,unknown
+"Chao, Luo",2013,687,unknown
+"David N, Fisher",2020,688,unknown
+"Jonathan N, Pruitt",2020,688,male
+"KA, Richardson",2002,689,unknown
+"WS, Hwang",2002,690,male
+"DH, Lee",2002,690,male
+"Arseni, Goussev",2016,691,unknown
+"Rodolfo A, Jalabert",2016,691,unknown
+"Horacio M, Pastawski",2016,691,female
+"Diego A, Wisniacki",2016,691,male
+"Xiaolong, Xu",2019,692,male
+"Yuan, Xue",2019,692,unknown
+"Mengmeng, Cui",2019,692,male
+"Yuan, Yuan",2019,692,female
+"Lianyong, Qi",2019,692,male
+"Eric J, Chaisson",2015,693,male
+"Radu Crisan, Dabija",2017,694,unknown
+"Andrei, Zala",2017,694,male
+"Eugen, Hnatiuc",2017,694,male
+"Andrei, Agop",2017,694,male
+"Ion, Palamarciuc",2017,694,male
+"Elena, Puiu",2017,694,male
+"Dorin, Vaideanu",2017,694,female
+"Gabriela, Jimborean",2017,694,female
+"Florin, Nedeff",2017,694,male
+"Mihaela Viviana, Ivan",2017,694,male
+"R, Lesh",2006,695,male
+"Elizabeth, McGill",2020,696,male
+"Vanessa, Er",2020,696,female
+"Dalya, Marks",2020,696,male
+"Mark, Petticrew",2020,696,male
+"Matt, Egan",2020,696,male
+"Tarra, Penney",2020,696,male
+"C, Bianca",2014,697,male
+"M, Ferrara",2014,697,unknown
+"L, Guerrini",2014,697,unknown
+"JM, YANG",1993,698,male
+"Ekrem, Aydiner",2007,699,male
+"J, Weber",2000,700,male
+"Freek Oude, Maatman",2021,701,male
+"Merlijn, Olthof",2021,701,male
+"Fred, Hasselman",2021,701,unknown
+"N, Bellomo",2010,702,male
+"C, Bianca",2010,702,unknown
+"M S, Mongiovi",2010,702,male
+"Sara, Meerow",2015,703,unknown
+"Joshua P, Newell",2015,703,male
+"John T, Scheele",2018,704,male
+"Paul R, Ohmann",2018,704,male
+"Adam S, Green",2018,704,female
+"George H, Baker",2006,705,male
+"Richard G, Little",2006,705,female
+"Alejandro, Barragan Ocana",2012,706,female
+"Alvaro, Quijano Solis",2012,706,female
+"Guadalupe, Vega Diaz",2012,706,female
+"Benito, Sanchez Lara",2012,706,female
+"XL, Hu",2005,707,female
+"BP, Zeigler",2005,707,male
+"S, Mittal",2005,707,unknown
+"Nick S, Jones",2008,708,male
+"Martha M, Munoz",2019,709,male
+"J A, Tenreiro Machado",2015,710,unknown
+"Antonio M, Lopes",2015,710,female
+"L, Thevenon",2000,711,female
+"JM, Flaus",2000,711,female
+"G, Dal Poggetto",2016,712,male
+"L, Castanar",2016,712,female
+"G A, Morris",2016,712,female
+"M, Nilsson",2016,712,female
+"Hui, Li",2017,713,unknown
+"Yongsui, Wen",2017,713,unknown
+"Wenjie, Sun",2017,713,female
+"Joachim P, Sturmberg",2012,714,male
+"Carmel M, Martin",2012,714,female
+"A Terry, Bahill",2008,715,female
+"Rick, Botta",2008,715,female
+"Ireneusz, Jablonski",2017,716,male
+"Kaspar, Schindler",2018,717,unknown
+"Aleix, Bassolas",2021,718,unknown
+"Vincenzo, Nicosia",2021,718,female
+"J, TAILLET",1991,719,male
+"AS, Rodionov",2001,720,male
+"H, Choo",2001,720,male
+"HY, Youn",2001,720,female
+"TM, Chung",2001,720,female
+"K, Park",2001,720,unknown
+"Christian, Berggren",2008,721,male
+"Jack, Jarkvik",2008,721,unknown
+"Jonas, Soderlund",2008,721,female
+"KL, Bellman",2000,722,female
+"C, Landauer",2000,722,female
+"Mark D, Griffiths",2008,723,female
+"Baoliang, Liu",2020,724,female
+"Zhiqiang, Zhang",2020,724,male
+"Yanqing, Wen",2020,724,female
+"Shugui, Kang",2020,724,male
+"Yanxin, Guo",2020,724,unknown
+"Qingan, Qiu",2020,724,unknown
+"Armen Der, Kiureghian",2008,725,female
+"Junho, Song",2008,725,female
+"RL, Viana",2003,726,female
+"C, Grebogi",2003,726,female
+"SEDS, Pinto",2003,726,female
+"SR, Lopes",2003,726,female
+"AM, Batista",2003,726,female
+"J, Kurths",2003,726,male
+"Sudhanshu, Aggarwal",2021,727,female
+"William, Barylo",2017,728,female
+"Manuel, Malheiro",2021,729,female
+"Edson, Otoniel",2021,729,male
+"Jaziel G, Coelho",2021,729,unknown
+"C, Hawes",2006,730,unknown
+"C, Reed",2006,730,female
+"Z B, Xu",2006,731,male
+"L F, Feng",2006,731,male
+"G H, Hu",2006,731,unknown
+"X B, Song",2006,731,female
+"X M, Zhang",2006,731,female
+"G Z, Li",2006,731,male
+"X P, Gu",2006,731,female
+"B G, Li",2006,731,male
+"M, Lyons",2005,732,female
+"Konstantin I, Momot",2006,733,female
+"Philip W, Kuchel",2006,733,female
+"Pragya, Shukla",2007,734,male
+"Ping, Liu",2015,735,male
+"Y, Akamine",2005,736,unknown
+"S, Endo",2005,736,female
+"K, Yamada",2005,736,female
+"Takashi, Nishikawa",2017,737,male
+"Adilson E, Motter",2017,737,female
+"Jie, Sun",2017,737,female
+"Alberto, Aleta",2019,738,female
+"Yamir, Moreno",2019,738,female
+"Pedro J, Zufiria",2014,739,female
+"Luis, Ubeda Medina",2014,739,unknown
+"Carlos, Herrera Yaguee",2014,739,male
+"Iker, Barriales Valbuena",2014,739,female
+"Antonio, Isalgue",2007,740,male
+"Helena, Coch",2007,740,unknown
+"Rafael, Serra",2007,740,female
+"Dante R, Chialvo",2008,741,male
+"Davide, Di Ruscio",2014,742,female
+"Patrizio, Pelliccione",2014,742,male
+"Alexis, Cartwright Taylor",2014,743,female
+"Filippos, Vallianatos",2014,743,female
+"Peter, Sammonds",2014,743,female
+"Vasileios, Basios",2011,744,female
+"Donal, Mac Kernan",2011,744,male
+"Koray, Ciftci",2019,745,female
+"Burgert, Senekal",2013,746,female
+"Dorin, Vaideanu",2020,747,unknown
+"Maria Alexandra, Paun",2020,747,female
+"Maricel, Agop",2020,747,female
+"Vladimir Alexandru, Paun",2020,747,unknown
+"Tudor Cristian, Petrescu",2020,747,male
+"Constantin, Placinta",2020,747,unknown
+"Decebal, Vasincu",2020,747,unknown
+"KJ, Vicente",1996,748,unknown
+"Md Shahnoor, Amin",2018,749,female
+"Timothy, Blackburn",2018,749,male
+"Andreas, Garstenauer",2018,749,male
+"Jakob, Runge",2015,750,female
+"Michael E, Cholette",2012,751,male
+"Dragan, Djurdjanovic",2012,751,female
+"Jianbo, Liu",2012,751,male
+"Kenneth A, Marko",2012,751,unknown
+"Marcel, Joly",2017,752,female
+"Patricia H C, Rondo",2017,752,male
+"HH, DEUBLER",1994,753,female
+"M, KOESTLER",1994,753,female
+"F, Vazza",2020,754,male
+"A, Feletti",2020,754,female
+"Cuimei, Jiang",2015,755,male
+"Shutang, Liu",2015,755,female
+"Da, Wang",2015,755,female
+"Joseph T, Lizier",2018,756,male
+"Michael S, Harre",2018,756,female
+"Conor, Finn",2018,756,unknown
+"Melanie, Mitchell",2018,756,female
+"Simon, DeDeo",2018,756,male
+"Kristian, Lindgren",2018,756,female
+"Amanda L, Lizier",2018,756,female
+"Hiroki, Sayama",2018,756,male
+"AA, CHERNYAK",1991,757,female
+"Adriano, Barra",2008,758,male
+"E I, Sukach",2011,759,female
+"Federico, Battiston",2021,760,female
+"Tiago P, Peixoto",2021,760,male
+"Enrico, Amico",2021,760,female
+"Alain, Barrat",2021,760,female
+"Ginestra, Bianconi",2021,760,male
+"Vito, Latora",2021,760,female
+"Guilherme, Ferraz de Arruda",2021,760,male
+"Yamir, Moreno",2021,760,male
+"Giovanni, Petri",2021,760,female
+"Benedetta, Franceschiello",2021,760,male
+"Micah M, Murray",2021,760,female
+"Sonia, Kefi",2021,760,female
+"Francesco, Vaccarino",2021,760,male
+"N, Bellomo",2004,761,female
+"Longbing, Cao",2008,762,male
+"Mihaela Viviana, Ivan",2017,763,female
+"Andrei, Zala",2017,763,female
+"Andrei, Agop",2017,763,male
+"Ion, Palamaciuc",2017,763,female
+"Elena, Puiu",2017,763,female
+"Dorin, Vaideanu",2017,763,male
+"Dragos, Teodor Iancu",2017,763,female
+"Radu, Crisan Dabija",2017,763,male
+"Virgil, Percec",2020,764,male
+"E, Chacon",2001,765,female
+"G, De Sarrazin",2001,765,male
+"Y, Khodr",2001,765,male
+"Marc, Barthelemy",2019,766,female
+"L, Parrott",2002,767,male
+"Dylan S, Davis",2020,768,female
+"Jutta, Rogal",2021,769,female
+"AL, KOVACS",1991,770,male
+"Richard K, Darst",2016,771,female
+"Jari, Saramaki",2016,771,male
+"Santo, Fortunato",2016,771,female
+"Clara, Granell",2016,771,female
+"Alex, Arenas",2016,771,male
+"Sergio, Gomez",2016,771,female
+"Ana Teixeira, de Melo",2020,772,female
+"Leo Simon Dominic, Caves",2020,772,male
+"Anna, Dewitt",2020,772,female
+"Evie, Clutton",2020,772,male
+"Rory, Macpherson",2020,772,male
+"Philip, Garnett",2020,772,female
+"Sergio, Gomez",2013,773,male
+"Clara, Granell",2013,773,male
+"Alex, Arenas",2013,773,female
+"Alberto, Fernandez",2013,773,male
+"E, Ramat",2003,774,female
+"P, Preux",2003,774,female
+"Wu Zhenya, Wu Zhenya",2019,775,male
+"Hao Jianping, Hao Jianping",2019,775,female
+"Stian, Ruud",2014,776,male
+"Roger, Skjetne",2014,776,female
+"V, Vesely",1998,777,female
+"Z, Kralova",1998,777,male
+"L, Harsanyi",1998,777,female
+"KS, Hindi",1998,777,female
+"Peng, Lin",2010,778,male
+"Yingmin, Jia",2010,778,female
+"Nicola, Zamboni",2011,779,male
+"Antoinette, Tordesillas",2013,780,male
+"David M, Walker",2013,780,female
+"Edward, Ando",2013,780,male
+"Gioacchino, Viggiani",2013,780,male
+"K L, Ngai",2010,781,female
+"S, Capaccioli",2010,781,male
+"M Shahin, Thayyil",2010,781,female
+"N, Shinyashiki",2010,781,female
+"PP, Wang",2000,782,male
+"Christopher C, Bernido",2012,783,female
+"M Victoria, Carpio Bernido",2012,783,male
+"Gloria, Pumpuni Lenss",2017,784,female
+"Timothy, Blackburn",2017,784,female
+"Andreas, Garstenauer",2017,784,male
+"Jianbo, Gao",2021,785,female
+"Bo, Xu",2021,785,female
+"Yalcin, Tuncer",2008,786,male
+"Murat M, Tanik",2008,786,female
+"David B, Allison",2008,786,male
+"Kazuko, Yamasaki",2006,787,male
+"Kaushik, Matia",2006,787,female
+"Sergey V, Buldyrev",2006,787,male
+"Dongfeng, Fu",2006,787,male
+"Fabio, Pammolli",2006,787,female
+"Massimo, Riccaboni",2006,787,male
+"H Eugene, Stanley",2006,787,female
+"David F, Batten",2009,788,female
+"Yuumi, Kawachi",2006,789,male
+"Shinichiro, Yoshii",2006,789,female
+"Carlos, Velarde",2018,790,male
+"Alberto, Robledo",2018,790,female
+"H, Szczerbicka",1998,791,female
+"M, Becker",1998,791,male
+"M, Syrjakow",1998,791,female
+"VE, Johnson",2005,792,female
+"A, Moosman",2005,792,male
+"P, Cotter",2005,792,female
+"Gregory, Leibon",2008,793,male
+"Scott, Pauls",2008,793,male
+"Daniel, Rockmore",2008,793,female
+"Robert, Savell",2008,793,male
+"Oliver, Baumann",2013,794,male
+"Nicolaj, Siggelkow",2013,794,female
+"Victor M, Eguiluz",2011,795,male
+"Toni, Perez",2011,795,female
+"Javier, Borge Holthoefer",2011,795,female
+"Alex, Arenas",2011,795,male
+"Andrea, Roli",2017,796,female
+"Marco, Villani",2017,796,male
+"Riccardo, Caprari",2017,796,female
+"Roberto, Serra",2017,796,female
+"Zhifu, Huang",2014,797,male
+"Congjie, Ou",2014,797,female
+"Bihong, Lin",2014,797,female
+"Guozhen, Su",2014,797,male
+"Jincan, Chen",2014,797,female
+"WB, ROUSE",1992,798,male
+"JA, CANNONBOWERS",1992,798,male
+"E, SALAS",1992,798,female
+"Tadeja Jere, Lazanski",2006,799,male
+"Miroljub, Kljajic",2006,799,male
+"Rodrigo, Paz Ybarnegaray",2017,800,female
+"Boru, Douthwaite",2017,800,male
+"MJ, ADAMS",1995,801,female
+"YJ, TENNEY",1995,801,female
+"RW, PEW",1995,801,male
+"J, Kluver",2005,802,female
+"C, Stoica",2005,802,male
+"DD, Sijak",2005,803,female
+"AI, Zecevic",2005,803,female
+"C, DiNapoli",1996,804,male
+"M, Giordano",1996,804,female
+"MM, Furnari",1996,804,female
+"R, Napolitano",1996,804,male
+"HE, Stanley",2000,805,female
+"LAN, Amaral",2000,805,male
+"P, Gopikrishnan",2000,805,male
+"PC, Ivanov",2000,805,female
+"TH, Keitt",2000,805,male
+"V, Plerou",2000,805,male
+"L, Nybell",2001,806,female
+"L M, Lukyanova",2007,807,male
+"V S G, Martins",2016,808,female
+"A C, Rodrigues",2016,808,female
+"B S, Machado",2016,808,male
+"H A, Cerdeira",2016,808,female
+"HG, Natke",1996,809,male
+"C, Cempel",1996,809,female
+"Paul M, Leonardi",2016,810,female
+"Diane E, Bailey",2016,810,male
+"Eduardo H, Diniz",2016,810,female
+"Dan, Sholler",2016,810,female
+"Bonnie, Nardi",2016,810,male
+"Diego, Pennacchioli",2014,811,female
+"Salvatore, Rinzivillo",2014,811,male
+"Fosca, Giannotti",2014,811,male
+"Dino, Pedreschi",2014,811,female
+"Michele, Coscia",2014,811,male
+"JM, Flaus",2003,812,male
+"L, Thevenon",2003,812,female
+"Paolo, Paradisi",2015,813,male
+"Paolo, Allegrini",2015,813,female
+"Michael J, Jacobson",2016,814,female
+"Peter, Reimann",2016,814,male
+"Manu, Kapur",2016,814,female
+"James S, Baldwin",2010,815,male
+"Keith, Ridgway",2010,815,female
+"Peter M, Allen",2010,815,female
+"Jeffrey, Johnson",2010,816,male
+"Luca, Fraccascia",2018,817,female
+"Ilaria, Giannoccaro",2018,817,female
+"Vito, Albino",2018,817,male
+"Yueying, Zhu",2017,818,female
+"Qiuping Alexandre, Wang",2017,818,male
+"Wei, Li",2017,818,male
+"Xu, Cai",2017,818,female
+"Turgut, Bastug",2007,819,male
+"Serdar, Kuyucak",2007,819,male
+"Robert A, Montgomery",2019,820,female
+"Remington J, Moll",2019,820,male
+"Elise, Say Sallaz",2019,820,female
+"Marion, Valeix",2019,820,female
+"Laura R, Prugh",2019,820,male
+"CE, Hmelo",2000,821,female
+"DL, Holton",2000,821,male
+"JL, Kolodner",2000,821,female
+"Li Hai long, Li Hai long",2015,822,female
+"Xi Jian xiang, Xi Jian xiang",2015,822,male
+"Li Hui, Li Hui",2015,822,female
+"Cao Yao qing, Cao Yao qing",2015,822,female
+"D, Li",2005,823,male
+"XL, Sun",2005,823,female
+"K, McKinnon",2005,823,male
+"Maria, Prandini",2010,824,male
+"John, Lygeros",2010,824,female
+"Pier Luigi, Gentili",2019,825,male
+"D T, Hristopulos",2020,826,male
+"B, Spagnolo",2020,826,female
+"D, Valenti",2020,826,male
+"A, Garas",2009,827,female
+"P, Argyrakis",2009,827,female
+"A, Benfenati",2013,828,male
+"V, Coscia",2013,828,female
+"Rabia, Korkmaz Tan",2020,829,male
+"Sebnem, Bora",2020,829,female
+"Nikolaos, Kalogeropoulos",2017,830,female
+"R, GUNTHER",1994,831,male
+"B, SCHAPIRO",1994,831,female
+"P, WAGNER",1994,831,female
+"Xiao Jun, Yang",2016,832,male
+"Zhi Zhen, Zhang",2016,832,female
+"J A Tenreiro, Machado",2016,832,male
+"Dumitru, Baleanu",2016,832,male
+"M L, Mouronte",2009,833,female
+"V, Feliu",2009,833,male
+"R, van Wijngaarden",2009,833,male
+"L G, Moyano",2009,833,female
+"R M, Benito",2009,833,male
+"J P, Cardenas",2009,833,female
+"A, Santiago",2009,833,female
+"Matthew A, Widmer",2018,834,male
+"R Chad, Swanson",2018,834,female
+"Brian J, Zink",2018,834,male
+"Jesse M, Pines",2018,834,female
+"Piergiulio, Tempesta",2020,835,female
+"HP, BREUER",1995,836,male
+"F, PETRUCCIONE",1995,836,female
+"Hamish, Simmonds",2018,837,female
+"Aaron, Gazley",2018,837,male
+"Kate, Daellenbach",2018,837,female
+"Wei, Xu",2007,838,male
+"Changchang, Che",2019,839,male
+"Huawei, Wang",2019,839,female
+"Xiaomei, Ni",2019,839,male
+"R, Bagrodia",1998,840,male
+"R, Meyer",1998,840,female
+"M, Takai",1998,840,male
+"YA, Chen",1998,840,female
+"XA, Zeng",1998,840,female
+"J, Martin",1998,840,male
+"HY, Song",1998,840,female
+"Sylvia, Walby",2021,841,male
+"HB, Wang",2001,842,female
+"M, Thoss",2001,842,female
+"WH, Miller",2001,842,male
+"Ling, Zhang",2007,843,female
+"Ying, Bai",2007,843,female
+"Zhiguo, Shang",2007,843,male
+"Yanke, Zhang",2007,843,female
+"Yujun, Mo",2007,843,male
+"S, King",2010,844,male
+"P, Flint",2010,844,female
+"S, Sundaram",2010,844,male
+"Hakan, Alm",2012,845,male
+"Anna Lisa, Osvalder",2012,845,female
+"A, Schoneveld",1999,846,male
+"JF, de Ronde",1999,846,female
+"Giovanni Battista, Dagnino",2008,847,female
+"Gabriella, Levanti",2008,847,male
+"Arabella Mocciaro Li, Destri",2008,847,female
+"A M S, Macedo",2017,848,male
+"Ivan R, Gonzalez",2017,848,female
+"G L, Vasconcelos",2017,848,female
+"D S P, Salazar",2017,848,male
+"Yorghos, Apostolopoulos",2018,849,female
+"Michael Kenneth, Lemke",2018,849,female
+"Idethia Shevon, Harvey",2018,849,male
+"Jameisha, Brown",2018,849,female
+"Niyousha, Hosseinichimeh",2018,849,male
+"Kristen Hassmiller, Lich",2018,849,male
+"Kristen Hassmiller, Lich",2013,850,female
+"Elizabeth M, Ginexi",2013,850,male
+"Nathaniel D, Osgood",2013,850,male
+"Patricia L, Mabry",2013,850,female
+"Dionessa C, Biton",2020,851,male
+"Rene C, Batac",2020,851,female
+"Anjali B, Tarun",2020,851,female
+"RA, Morris",1997,852,male
+"AJ, Gonzalez",1997,852,female
+"DJ, Carreira",1997,852,male
+"Ricard, Horta Bernus",2015,853,female
+"Marti, Rosas Casals",2015,853,female
+"Paul, Cilliers",2013,854,male
+"Jan Hendrik S, Hofmeyr",2013,854,female
+"Graham P W, Jewitt",2013,854,female
+"Dirk J, Roux",2013,854,male
+"Yue, Chen",2021,855,female
+"Jian, Shi",2021,855,male
+"Xiao Jian, Yi",2021,855,male
+"B, Meunier",1998,856,female
+"PR, Rich",1998,856,male
+"KB, DEGREENE",1994,857,male
+"Matteo, Marsili",2013,858,female
+"Iacopo, Mastromatteo",2013,858,male
+"Yasser, Roudi",2013,858,female
+"Douglas A, Luke",2012,859,female
+"Katherine A, Stamatakis",2012,859,male
+"Franck, Marle",2020,860,female
+"Antonio G, Valdecasas",2009,861,male
+"Jesus, Juez",2009,861,female
+"Carmen R, Guerrero",2009,861,female
+"Nikhil, Bugalia",2021,862,male
+"Yu, Maemura",2021,862,female
+"Kazumasa, Ozawa",2021,862,female
+"Boyi, Zhang",2021,863,male
+"Pengjian, Shang",2021,863,female
+"Jinzhao, Liu",2021,863,male
+"Robert C, Bishop",2008,864,male
+"Sara, Kaviani",2020,865,female
+"Insoo, Sohn",2020,865,male
+"A, Moser",2000,866,male
+"Sebastian, Rodriguez",2007,867,female
+"Vincent, Hilaire",2007,867,male
+"Abderrafiaa, Koukam",2007,867,female
+"Fabian, Gans",2009,868,female
+"Aicko Y, Schumann",2009,868,male
+"Jan W, Kantelhardt",2009,868,female
+"Thomas, Penzel",2009,868,male
+"Ingo, Fietze",2009,868,female
+"Sodeif, Ahadpour",2014,869,female
+"Yaser, Sadra",2014,869,male
+"Zahra, ArastehFard",2014,869,female
+"Florin, Pop",2012,870,female
+"Pascal L R, Van Der Veeken",2008,871,male
+"Herman P, Van Leeuwen",2008,871,female
+"Jose P, Pinheiro",2008,871,male
+"Michail, Kovanis",2016,872,male
+"Raphael, Porcher",2016,872,female
+"Philippe, Ravaud",2016,872,male
+"Ludovic, Trinquart",2016,872,male
+"Fouad, Khan",2018,873,female
+"Paul, Heinecker",2018,873,male
+"Misako, Takayasu",2014,874,female
+"Hayafumi, Watanabe",2014,874,female
+"Hideki, Takayasu",2014,874,male
+"RL, Viana",2005,875,female
+"C, Grebogi",2005,875,male
+"SED, Pinto",2005,875,female
+"SR, Lopes",2005,875,female
+"AM, Batista",2005,875,male
+"J, Kurths",2005,875,female
+"Anna, Kuranova",2020,876,female
+"Sanne H, Booij",2020,876,male
+"Johanna T W, Wigman",2020,876,female
+"Marieke, Wichers",2020,876,male
+"Claudia, Menne Lothmann",2020,876,male
+"Philippe, Delespaul",2020,876,female
+"Bart P F, Rutten",2020,876,male
+"Nele, Jacobs",2020,876,male
+"Jim, van Os",2020,876,female
+"Jeroen, Decoster",2020,876,male
+"Ruud, van Winkel",2020,876,female
+"Marc, De Hert",2020,876,female
+"Catherine, Derom",2020,876,male
+"Evert, Thiery",2020,876,female
+"Yacov Y, Haimes",2012,877,male
+"Emilio, Serrano",2009,878,female
+"Juan A, Botia",2009,878,female
+"Jorge J, Gomez Sanz",2009,878,male
+"Juan, Pavon",2009,878,female
+"HS, Ryoo",2005,879,female
+"Sheridan, Taylor",2016,880,male
+"Roger, Taylor",2016,880,female
+"Ping, Liu",2012,881,male
+"Shutang, Liu",2012,881,male
+"R, Albert",2000,882,female
+"AL, Barabasi",2000,882,male
+"H, Arrow",2004,883,male
+"MS, Poole",2004,883,female
+"KB, Henry",2004,883,male
+"S, Wheelan",2004,883,female
+"R, Moreland",2004,883,female
+"Yoshiharu, Mori",2012,884,male
+"Yuko, Okamoto",2012,884,female
+"Alexandre, Levada",2014,885,male
+"FV, Bright",2003,886,female
+"CA, Munson",2003,886,female
+"A, Iliopoulos",2019,887,male
+"D, Chorozoglou",2019,887,female
+"C, Kourouklas",2019,887,female
+"O, Mangira",2019,887,male
+"E, Papadimitriou",2019,887,female
+"Angela Weber, Righi",2012,888,male
+"Priscila, Wachs",2012,888,male
+"Tarcisio Abreu, Saurin",2012,888,female
+"Andres, Aragoneses",2013,889,male
+"M C, Torrent",2013,889,male
+"Cristina, Masoller",2013,889,female
+"Nicolas, Rubido",2013,889,male
+"Jordi, Tiana Alsina",2013,889,female
+"J, Peinke",2004,890,female
+"F, Bottcher",2004,890,male
+"S, Barth",2004,890,female
+"J, Musset",2003,891,male
+"M, Rusinowitch",2003,891,female
+"RA, Bentley",2001,892,female
+"HDG, Maschner",2001,892,male
+"Max, Rietkerk",2021,893,female
+"Swarnendu, Banerjee",2021,893,female
+"Mara, Baudena",2021,893,male
+"Robbin, Bastiaansen",2021,893,female
+"Johan, van de Koppel",2021,893,male
+"Arjen, Doelman",2021,893,male
+"Daniel, Krob",2009,894,female
+"Simon, Bliudze",2009,894,male
+"J, Izquierdo",2004,895,male
+"PL, Iglesias",2004,895,female
+"Young A, Ji",2018,896,male
+"Hong Gee, Kim",2018,896,female
+"Se Jin, Nam",2018,896,female
+"Jaeil, Lee",2018,896,male
+"Soo Kyoung, Lee",2018,896,female
+"Rounaq, Nayak",2019,897,male
+"Patrick, Waterson",2019,897,female
+"RM, Yulmetyev",1999,898,female
+"DG, Yulmetyeva",1999,898,male
+"Enzo, Tagliazucchi",2016,899,female
+"Michael, Siniatchkin",2016,899,female
+"Helmut, Laufs",2016,899,male
+"Dante R, Chialvo",2016,899,female
+"Enrico, Amico",2016,899,male
+"Jean Francois, Brichant",2016,899,male
+"Vincent, Bonhomme",2016,899,female
+"Quentin, Noirhomme",2016,899,male
+"Steven, Laureys",2016,899,male
+"E, Kolonis",2008,900,female
+"M, Nicolaidis",2008,900,male
+"EA, Rosa",2005,901,female
+"HM, Ramirez",2005,902,female
+"CR, Romeva",2005,902,male
+"Susan A, Yoon",2020,903,female
+"Katherine, Miller",2020,903,male
+"Thomas, Richman",2020,903,female
+"D, Helbing",2006,904,female
+"D, Armbruster",2006,904,male
+"AS, Mikhallov",2006,904,female
+"E, Lefeber",2006,904,female
+"AMJ, SKULIMOWSKI",1992,905,male
+"BF, SCHMID",1992,905,female
+"Jiri, Bila",2021,906,male
+"Ali H, Reshak",2021,906,male
+"Jan, Chysky",2021,906,female
+"Milad, Hooshyar",2020,907,male
+"Amilcare, Porporato",2020,907,male
+"Sara, Bonetti",2020,907,female
+"Arvind, Singh",2020,907,male
+"Efi, Foufoula Georgiou",2020,907,female
+"LA, Clark",2001,908,female
+"DE, Ellis",2001,908,male
+"RQ, Snurr",2001,908,female
+"DJ, Andrews",1998,909,male
+"Giuliano, Punzo",2020,910,female
+"Anurag, Tewari",2020,910,female
+"Eugene, Butans",2020,910,male
+"Massimiliano, Vasile",2020,910,female
+"Alan, Purvis",2020,910,female
+"Martin, Mayfield",2020,910,male
+"Liz, Varga",2020,910,female
+"Robert, Chisholm",2020,911,male
+"Steve, Maddock",2020,911,male
+"Paul, Richmond",2020,911,female
+"Alex, Arenas",2009,912,male
+"Yamir, Moreno",2009,912,male
+"Sandro, Meloni",2009,912,female
+"Marcantonio, Catelani",2019,913,male
+"Lorenzo, Ciani",2019,913,female
+"Matteo, Venzi",2019,913,female
+"Craig, Stow",2007,914,male
+"Craig R, Allen",2007,914,female
+"Ahjond S, Garmestani",2007,914,male
+"Mitch, Chapura",2009,915,female
+"Oguz, Bektas",2020,916,female
+"Jane, Marshall",2020,916,male
+"Jeffrey A, Jones",2020,916,female
+"YP, Gunji",1999,917,female
+"G, Ito",1999,917,male
+"Peng, Wang",2018,918,female
+"Maarten L, Wijnants",2018,918,male
+"Simone M, Ritter",2018,918,male
+"TR, Addis",2002,919,female
+"JJT, Addis",2002,919,male
+"Thomas Martin, Key",2019,920,male
+"Carol, Azab",2019,920,female
+"Terry, Clark",2019,920,male
+"C, Posadas Castillo",2008,921,female
+"R M, Lopez Gutierrez",2008,921,female
+"C, Cruz Hernandez",2008,921,male
+"Carlos, Cotta",2016,922,female
+"Robert, Schaefer",2016,922,male
+"Andreas C W, Baas",2007,923,female
+"Z, Eisler",2005,924,female
+"J, Kertesz",2005,924,male
+"SH, Yook",2005,924,female
+"AL, Barabasi",2005,924,female
+"H, Kano",2005,925,male
+"H, Nakata",2005,925,female
+"CF, Martin",2005,925,male
+"F, Marc",2005,926,male
+"A, El Fallah Seghrouchni",2005,926,female
+"I, Degirmenciyan Cartault",2005,926,male
+"Thomas, Wennekers",2011,927,male
+"Eckehard, Olbrich",2011,927,female
+"Peter, Achermann",2011,927,male
+"Nicola, Bellomo",2006,928,female
+"Guido, Forni",2006,928,female
+"Jens Koed, Madsen",2019,929,male
+"Richard, Sailey",2019,929,female
+"Ernesto, Carrella",2019,929,male
+"Philipp, Koralus",2019,929,female
+"Donald L, Gilstrap",2009,930,female
+"Brandon D L, Marshall",2015,931,male
+"Sandro, Galea",2015,931,female
+"Andrew, Koleros",2020,932,female
+"Sean, Mulkerne",2020,932,male
+"Mark, Oldenbeuving",2020,932,female
+"Danielle, Stein",2020,932,male
+"Raed M, Jaradat",2018,933,male
+"Charles B, Keating",2018,933,female
+"Joseph M, Bradley",2018,933,male
+"Elias, Zafiris",2012,934,male
+"P, Marcenac",1998,935,female
+"S, Giroux",1998,935,male
+"Gerardo, Aquino",2011,936,female
+"Mauro, Bologna",2011,936,female
+"Bruce J, West",2011,936,male
+"Paolo, Grigolini",2011,936,female
+"RV, Abramov",2004,937,male
+"AJ, Majda",2004,937,female
+"Yajie, Dou",2019,938,female
+"Danling, Zhao",2019,938,male
+"Boyuan, Xia",2019,938,female
+"Xiaoxiong, Zhang",2019,938,female
+"Kewei, Yang",2019,938,male
+"Bo Yang, Yu",2016,939,female
+"Tomonori, Honda",2016,939,male
+"Maria, Yang",2016,939,male
+"Mostafa, Sharqawy",2016,939,female
+"Thomas G, Kannampallil",2011,940,male
+"Guido F, Schauer",2011,940,male
+"Trevor, Cohen",2011,940,female
+"Vimla L, Patel",2011,940,male
+"Christos, Ellinas",2018,941,female
+"Anders, Johansson",2018,941,female
+"Neil, Allan",2018,941,male
+"Patricia, Sobradillo",2011,942,female
+"Francisco, Pozo",2011,942,male
+"Alvar, Agusti",2011,942,female
+"Koji, Iwayama",2012,943,female
+"Yoshito, Hirata",2012,943,male
+"Kazuyuki, Aihara",2012,943,female
+"Hideyuki, Suzuki",2012,943,female
+"Kohske, Takahashi",2012,943,male
+"Katsumi, Watanabe",2012,943,female
+"Yilun, Shang",2019,944,male
+"Alisson R, Silva",2018,945,male
+"Maury M, Gouvea Jr",2018,945,female
+"Luis F W, Goes",2018,945,male
+"Carlos A P S, Martins",2018,945,male
+"Carlo, Bianca",2012,946,female
+"Manuel, Caravaca Garraton",2017,947,male
+"Martin, Randles",2011,948,female
+"David, Lamb",2011,948,female
+"A, Taleb Bendiab",2011,948,male
+"E, Odat",2011,948,female
+"Francois, Martin Vallas",2009,949,male
+"Myriam Patricia, Cifuentes",2017,950,female
+"Soledad A, Fernandez",2017,950,female
+"J Stephen, Topper",2013,951,male
+"Nathaniel C, Horner",2013,951,female
+"AS, Nyssen",2006,952,female
+"A, Blavier",2006,952,male
+"Rajeev, Rajaram",2012,953,female
+"Brian, Castellani",2012,953,male
+"Ian, Durham",2020,954,male
+"Shibing, Wang",2016,955,female
+"Xingyuan, Wang",2016,955,male
+"Bo, Han",2016,955,male
+"Iris R, Bell",2006,956,female
+"Mary, Koithan",2006,956,male
+"Tarannom, Parhizkar",2021,957,female
+"Jan Erik, Vinnem",2021,957,female
+"Ingrid Bouwer, Utne",2021,957,male
+"Ali, Mosleh",2021,957,female
+"Sylvia, Walby",2021,958,male
+"Stacey, Butler",2020,959,female
+"James P, O'Dwyer",2020,959,female
+"J Anthony, Stallins",2006,960,male
+"William B, Rouse",2007,961,female
+"Jeffrey H, Johnson",2007,962,female
+"Pejman, Iravani",2007,962,male
+"V, Venkatasubramanian",2005,963,female
+"Ana V Diez, Roux",2015,964,male
+"C G, Ritson",2010,965,male
+"P H, Welch",2010,965,female
+"Brent A, Langellier",2019,966,male
+"Jill A, Kuhlberg",2019,966,male
+"Ellis A, Ballard",2019,966,female
+"S Claire, Slesinski",2019,966,male
+"Ivana, Stankov",2019,966,female
+"Ana V Diez, Roux",2019,966,female
+"Nelson, Gouveia",2019,966,male
+"Jose D, Meisel",2019,966,female
+"Maria F, Kroker Lobos",2019,966,male
+"Manuel, Ramirez Zea",2019,966,female
+"Kevin, Martinez Folgar",2019,966,female
+"Olga L, Sarmiento",2019,966,male
+"Waleska Teixeira, Caiaffa",2019,966,female
+"Marcio, Alazraqui",2019,966,female
+"Hugo, Spinelli",2019,966,male
+"Carlos, Guevel",2019,966,female
+"Vanessa, Di Cecco",2019,966,male
+"Adela, Tisnes",2019,966,male
+"Carlos, Leveau",2019,966,female
+"Adrian, Santoro",2019,966,male
+"Damian, Herkovits",2019,966,male
+"Mauricio, Barreto",2019,966,female
+"Gervasio, Santos",2019,966,male
+"Leticia, Cardoso",2019,966,female
+"Mariana Carvalho, de Menezes",2019,966,female
+"Maria de Fatima, de Pina",2019,966,male
+"Amelia Augusta, de Lima Friche",2019,966,female
+"Amanda Cristina, de Souza Andrade",2019,966,male
+"Patricia, Frenz",2019,966,female
+"Tania, Alfaro",2019,966,female
+"Cynthia, Cordova",2019,966,male
+"Pablo, Ruiz",2019,966,female
+"Mauricio, Fuentes",2019,966,female
+"Alejandra, Vives Vergara",2019,966,male
+"Alejandro, Salazar",2019,966,female
+"Andrea, Cortinez O'Ryan",2019,966,male
+"Cristian, Schmitt",2019,966,male
+"Francisca, Gonzalez",2019,966,female
+"Fernando, Baeza",2019,966,male
+"Flavia, Angelini",2019,966,male
+"Olga Lucia, Sarmiento Duenas",2019,966,female
+"Diana, Higuera",2019,966,male
+"Catalina, Gonzalez",2019,966,female
+"Felipe, Montes",2019,966,female
+"Andres F, Useche",2019,966,male
+"Oscar, Guaje",2019,966,female
+"Ana, Maria Jaramillo",2019,966,male
+"Luis, Angel Guzman",2019,966,female
+"Philipp, Hessel",2019,966,female
+"Diego, Lucumi",2019,966,male
+"Jose, David Meisel",2019,966,female
+"Eliana, Martinez",2019,966,female
+"Tonatiuh, Barrientos Gutierrez",2019,966,male
+"Carolina, Perez Ferrer",2019,966,female
+"Javier, Prado Galbarro",2019,966,male
+"Filipa, de Castro",2019,966,male
+"Rosalba, Rojas Martinez",2019,966,female
+"J, Jaime Miranda",2019,966,male
+"Akram, Hernandez Vasquez",2019,966,male
+"Francisco, Diez Canseco",2019,966,female
+"Ross, Hammond",2019,966,male
+"Daniel, Rodriguez",2019,966,female
+"Iryna, Dronova",2019,966,female
+"Xize, Wang",2019,966,male
+"Mika, Moran",2019,966,female
+"Peter, Hovmand",2019,966,male
+"Ricardo Jordan, Fuchs",2019,966,female
+"Juliet, Braslow",2019,966,female
+"Jose, Siri",2019,966,male
+"Ana Diez, Roux",2019,966,female
+"Amy, Auchincloss",2019,966,female
+"Usama, Bilal",2019,966,male
+"Felipe, Garcia Espana",2019,966,female
+"Brent, Langellier",2019,966,male
+"Gina, Lovasi",2019,966,male
+"Leslie, McClure",2019,966,female
+"Yvonne, Michael",2019,966,male
+"Kari, Moore",2019,966,male
+"Harrison, Quick",2019,966,female
+"D Alex, Quistberg",2019,966,male
+"Brisa N, Sanchez",2019,966,female
+"Jose Tapia, Granados",2019,966,female
+"Dong Han, Ham",2008,967,male
+"Jinkyun, Park",2008,967,female
+"Wondea, Jung",2008,967,male
+"Chris, Swinerd",2012,968,female
+"Ken R, McNaught",2012,968,female
+"Richard J, Sampson",2015,969,male
+"C, Cattani",2007,970,female
+"A, Ciancio",2007,970,female
+"Barbara, Cosens",2021,971,male
+"J B, Ruhl",2021,971,female
+"Niko, Soininen",2021,971,male
+"Antti, Belinskij",2021,971,male
+"Lance, Gunderson",2021,971,female
+"Thorsten, Blenckner",2021,971,male
+"Alejandro E, Camacho",2021,971,male
+"Brian C, Chaffin",2021,971,female
+"Robin Kundis, Craig",2021,971,male
+"Holly, Doremus",2021,971,female
+"Robert, Glicksman",2021,971,female
+"Anna Stiina, Heiskanen",2021,971,male
+"Rhett, Larson",2021,971,female
+"Jukka, Simila",2021,971,male
+"Olivier, Le Corre",2015,972,female
+"Laurent, Truffet",2015,972,female
+"C, Gomez",2014,973,male
+"M, Sanchez Silva",2014,973,female
+"L, Duenas Osorio",2014,973,female
+"Raul, Barrios",2019,974,male
+"F, BELLI",1993,975,female
+"Alexandre, Vidmer",2015,976,male
+"An, Zeng",2015,976,male
+"Matus, Medo",2015,976,female
+"Yi Cheng, Zhang",2015,976,male
+"AC, BUTLER",1993,977,male
+"SS, RAO",1993,977,female
+"SR, LECLAIR",1993,977,male
+"Wei, Ge",2007,978,female
+"Feiguo, Chen",2007,978,female
+"Jian, Gao",2007,978,male
+"Shiqiu, Gao",2007,978,female
+"Jin, Huang",2007,978,male
+"Xiaoxing, Liu",2007,978,female
+"Ying, Ren",2007,978,female
+"Qicheng, Sun",2007,978,male
+"Limin, Wang",2007,978,female
+"Wei, Wang",2007,978,female
+"Ning, Yang",2007,978,male
+"Jiayuan, Zhang",2007,978,female
+"Hui, Zhao",2007,978,male
+"Guangzheng, Zhou",2007,978,male
+"Jinghai, Li",2007,978,female
+"Susan A, Yoon",2008,979,male
+"Kin M, Li",2018,980,male
+"Arturo, Pacheco Vega",2018,980,male
+"Mihir, Sen",2018,980,male
+"Mohammad Pourmahmood, Aghababa",2013,981,male
+"David, Aikman",2011,982,female
+"Philip, Barrett",2011,982,male
+"Sujit, Kapadia",2011,982,male
+"Mervyn, King",2011,982,male
+"James, Proudman",2011,982,female
+"Tim, Taylor",2011,982,male
+"Iain, de Weymarn",2011,982,male
+"Tony, Yates",2011,982,female
+"Thawani Mpatama, Sanjika",2016,983,female
+"Carel Nicoolas, Bezuidenhout",2016,983,male
+"B, Krupa",2002,984,female
+"Michael J, Jacobson",2017,985,male
+"Lina, Markauskaite",2017,985,male
+"Alisha, Portolese",2017,985,male
+"Gareth, Roberts",2017,985,male
+"Manu, Kapur",2017,985,male
+"Polly K, Lai",2017,985,male
+"J L, Uso Domenech",2016,986,female
+"J A, Nescolarde Selva",2016,986,male
+"M, Lloret Climent",2016,986,male
+"H, Gash",2016,986,male
+"Jenny Suno, Wu",2021,987,female
+"Pete, Barbrook Johnson",2021,987,male
+"Xavier, Font",2021,987,male
+"L, Cristaldi",2005,988,female
+"A, Ferrero",2005,988,female
+"A, Monti",2005,988,male
+"F, Ponci",2005,988,female
+"W, McKay",2005,988,male
+"R, Dougal",2005,988,male
+"J, Ravetz",1999,989,male
+"Marco, Daub",2020,990,male
+"Fabian, Duddeck",2020,990,male
+"Lubomir, Bakule",2016,991,male
+"Branislav, Rehak",2016,991,female
+"Martin, Papik",2016,991,male
+"K, Banas",2006,992,male
+"T, Banasik",2006,992,male
+"B, Szczesniak Fabianczyk",2006,992,female
+"P, Gogol",2006,992,male
+"D, Wierzuchowska",2006,992,male
+"A, Jasinski",2006,992,female
+"Zvonko, Kostanjcar",2016,993,female
+"Stjepan, Begusic",2016,993,male
+"Harry Eugene, Stanley",2016,993,female
+"Boris, Podobnik",2016,993,male
+"Els, Weinans",2019,994,male
+"J Jelle, Lever",2019,994,male
+"Sebastian, Bathiany",2019,994,male
+"Egbert H, van Nes",2019,994,male
+"Marten, Scheffer",2019,994,male
+"Ingrid A, van de Leemput",2019,994,female
+"Jordi, Bascompte",2019,994,male
+"Rick, Quax",2019,994,male
+"E, Zio",2009,995,male
+"Jacqueline, Brown",2021,996,female
+"Dakota, Murray",2021,996,male
+"Kyle, Furlong",2021,996,male
+"Emily, Coco",2021,996,female
+"Fabian, Dablander",2021,996,female
+"Yining, Zeng",2020,997,male
+"Rongxing, Duan",2020,997,female
+"Shujuan, Huang",2020,997,male
+"Tao, Feng",2020,997,male
+"Sebastian, Hetzler",2010,998,male
+"J R, Ipsen",2018,999,male
+"P J, Forrester",2018,999,male
+"Seokmin, Kang",2015,1000,male
+"Barbara, Tversky",2015,1000,female
+"John B, Black",2015,1000,male
